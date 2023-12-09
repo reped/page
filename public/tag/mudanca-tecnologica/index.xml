@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mudança tecnológica | Defesa</title>
+    <link>https://defesa.netlify.app/tag/mudanca-tecnologica/</link>
+      <atom:link href="https://defesa.netlify.app/tag/mudanca-tecnologica/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mudança tecnológica</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://defesa.netlify.app/media/icon_hu9908d69d9bb7f7dd2a76b27d933f6722_49721_512x512_fill_lanczos_center_3.png</url>
+      <title>Mudança tecnológica</title>
+      <link>https://defesa.netlify.app/tag/mudanca-tecnologica/</link>
+    </image>
+    
+    <item>
+      <title>Uma avaliação dos impactos da Indústria 4.0 sobre o  setor aeronáutico</title>
+      <link>https://defesa.netlify.app/publication/artigo_barbieri_nerisjr2020/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://defesa.netlify.app/publication/artigo_barbieri_nerisjr2020/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+#blockquote {
+#    padding: 10px 20px;
+#    margin: 0 0 20px;
+#    font-size: 14px;
+#    border-left: 5px solid #ffd700;
+#}
+
+&lt;/style&gt;&lt;blockquote&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
