@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | REPED</title>
-    <link>http://example.org/publication-type/2/</link>
-      <atom:link href="http://example.org/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/publication-type/2/</link>
+      <atom:link href="http://reped.com.br/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>2</title>
-      <link>http://example.org/publication-type/2/</link>
+      <link>http://reped.com.br/publication-type/2/</link>
     </image>
     
     <item>
       <title></title>
-      <link>http://example.org/modelo_publicacao/</link>
+      <link>http://reped.com.br/modelo_publicacao/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/modelo_publicacao/</guid>
+      <guid>http://reped.com.br/modelo_publicacao/</guid>
       <description>&lt;!--
 
 
@@ -68,9 +68,9 @@ blockquote {
     
     <item>
       <title>An empirical model of fleet modernization: On the relationship between market concentration and innovation adoption by airlines</title>
-      <link>http://example.org/publication/2022artigo_oliveira_caliari_narcizo/</link>
+      <link>http://reped.com.br/publication/2022artigo_oliveira_caliari_narcizo/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2022artigo_oliveira_caliari_narcizo/</guid>
+      <guid>http://reped.com.br/publication/2022artigo_oliveira_caliari_narcizo/</guid>
       <description>
 
 
@@ -112,9 +112,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Padrões de transferência de tecnologia em aquisições de defesa no Brasil</title>
-      <link>http://example.org/publication/2021artigo_correa_urbina/</link>
+      <link>http://reped.com.br/publication/2021artigo_correa_urbina/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_correa_urbina/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_correa_urbina/</guid>
       <description>&lt;!--
 
 
@@ -166,9 +166,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Investir no desenvolvimento ou simplesmente comprar? Uma exploração da controvérsia em torno da substituição de aviões de caça para a Força Aérea Brasileira</title>
-      <link>http://example.org/publication/2021pre_correa_caliari_bichoffe/</link>
+      <link>http://reped.com.br/publication/2021pre_correa_caliari_bichoffe/</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021pre_correa_caliari_bichoffe/</guid>
+      <guid>http://reped.com.br/publication/2021pre_correa_caliari_bichoffe/</guid>
       <description>
 
 
@@ -210,9 +210,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Avaliação da implementação da cooperação sul-sul do Brasil com São Tomé e Príncipe nos governos Cardoso, Lula e Rousseff</title>
-      <link>http://example.org/publication/2021artigo_violante_pedone/</link>
+      <link>http://reped.com.br/publication/2021artigo_violante_pedone/</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_violante_pedone/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_violante_pedone/</guid>
       <description>&lt;!--
 
 
@@ -264,9 +264,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Public procurement of innovation for obtaining complex defense systems</title>
-      <link>http://example.org/publication/2021artigo_oliveira_oliveira_camposjr_matos/</link>
+      <link>http://reped.com.br/publication/2021artigo_oliveira_oliveira_camposjr_matos/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_oliveira_oliveira_camposjr_matos/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_oliveira_oliveira_camposjr_matos/</guid>
       <description>
 
 
@@ -308,9 +308,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>A Defesa Nacional e os Programas Estratégicos de Defesa do PPA 2016-2019</title>
-      <link>http://example.org/publication/2021artigo_giesteira_matos_a/</link>
+      <link>http://reped.com.br/publication/2021artigo_giesteira_matos_a/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_giesteira_matos_a/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_giesteira_matos_a/</guid>
       <description>
 
 
@@ -352,9 +352,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Estimating fuel-efficiency while accounting for dynamic fleet management. Testing the effects of fuel price signals and fleet rollover</title>
-      <link>http://example.org/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</link>
+      <link>http://reped.com.br/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</guid>
       <description>
 
 
@@ -396,9 +396,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Geopolítica e programa espacial brasileiro: da busca pela autonomia ao Acordo de Salvaguardas Tecnológicas</title>
-      <link>http://example.org/publication/2021artigo_matos/</link>
+      <link>http://reped.com.br/publication/2021artigo_matos/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_matos/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_matos/</guid>
       <description>
 
 
@@ -440,9 +440,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>A crise sanitária da Covid-19 e a vulnerabilidade produtiva e tecnológica do Complexo Econômico-Industrial da Saúde no Brasil no contexto da financeirização</title>
-      <link>http://example.org/publication/2021artigo_sarti_hiratuka/</link>
+      <link>http://reped.com.br/publication/2021artigo_sarti_hiratuka/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_sarti_hiratuka/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_sarti_hiratuka/</guid>
       <description>
 
 
@@ -484,9 +484,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>A Defesa Nacional no Plano Plurianual 2016-2019: uma avaliação a partir dos projetos estratégicos</title>
-      <link>http://example.org/publication/2021artigo_giesteira_matos_ferreira/</link>
+      <link>http://reped.com.br/publication/2021artigo_giesteira_matos_ferreira/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_giesteira_matos_ferreira/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_giesteira_matos_ferreira/</guid>
       <description>
 
 
@@ -528,9 +528,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>As organizações militares da Marinha e o crescimento econômico dos municípios brasileiros</title>
-      <link>http://example.org/publication/2021artigo_ribeiro_ribeiro/</link>
+      <link>http://reped.com.br/publication/2021artigo_ribeiro_ribeiro/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_ribeiro_ribeiro/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_ribeiro_ribeiro/</guid>
       <description>&lt;!--
 
 
@@ -582,9 +582,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Avaliação da estratégia de construção naval canadense no período 2010-2019</title>
-      <link>http://example.org/publication/2021artigo_barreto_santos/</link>
+      <link>http://reped.com.br/publication/2021artigo_barreto_santos/</link>
       <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_barreto_santos/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_barreto_santos/</guid>
       <description>
 
 
@@ -626,9 +626,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Uma avaliação dos impactos da Indústria 4.0 sobre o  setor aeronáutico</title>
-      <link>http://example.org/publication/2022-12-26-uma-avalia-o/</link>
+      <link>http://reped.com.br/publication/2022-12-26-uma-avalia-o/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2022-12-26-uma-avalia-o/</guid>
+      <guid>http://reped.com.br/publication/2022-12-26-uma-avalia-o/</guid>
       <description>
 
 
@@ -670,9 +670,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>No power vacuum: national security neglect and the defence sector in Brazil</title>
-      <link>http://example.org/publication/2020artigo_lima_silva_rudzit/</link>
+      <link>http://reped.com.br/publication/2020artigo_lima_silva_rudzit/</link>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020artigo_lima_silva_rudzit/</guid>
+      <guid>http://reped.com.br/publication/2020artigo_lima_silva_rudzit/</guid>
       <description>
 
 
@@ -714,9 +714,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Brazilian Industrial Defense Base Profile</title>
-      <link>http://example.org/publication/2020artigo_leske_santos/</link>
+      <link>http://reped.com.br/publication/2020artigo_leske_santos/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020artigo_leske_santos/</guid>
+      <guid>http://reped.com.br/publication/2020artigo_leske_santos/</guid>
       <description>
 
 
@@ -758,9 +758,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Análise dos impactos dos transbordamentos de tecnologia em defesa e dos programas estratégicos sobre o crescimento e o desenvolvimento econômico</title>
-      <link>http://example.org/publication/2020artigo_ribeiro_negrete_ribeiro/</link>
+      <link>http://reped.com.br/publication/2020artigo_ribeiro_negrete_ribeiro/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020artigo_ribeiro_negrete_ribeiro/</guid>
+      <guid>http://reped.com.br/publication/2020artigo_ribeiro_negrete_ribeiro/</guid>
       <description>&lt;!--
 
 
@@ -812,9 +812,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>China e a (In)Segurança Energética: Planejamento político com foco na sustentabilidade, competitividade e garantia de suprimentos</title>
-      <link>http://example.org/publication/2020artigo_molina_pedone/</link>
+      <link>http://reped.com.br/publication/2020artigo_molina_pedone/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020artigo_molina_pedone/</guid>
+      <guid>http://reped.com.br/publication/2020artigo_molina_pedone/</guid>
       <description>
 
 

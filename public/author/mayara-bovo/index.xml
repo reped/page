@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mayara Bovo | REPED</title>
-    <link>http://example.org/author/mayara-bovo/</link>
-      <atom:link href="http://example.org/author/mayara-bovo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/author/mayara-bovo/</link>
+      <atom:link href="http://reped.com.br/author/mayara-bovo/index.xml" rel="self" type="application/rss+xml" />
     <description>Mayara Bovo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>Mayara Bovo</title>
-      <link>http://example.org/author/mayara-bovo/</link>
+      <link>http://reped.com.br/author/mayara-bovo/</link>
     </image>
     
     <item>
       <title>Prospecção de Patentes e Tendências Tecnológicas em Veículos Aéreos Não Tripulados</title>
-      <link>http://example.org/publication/2020charles_mayara/</link>
+      <link>http://reped.com.br/publication/2020charles_mayara/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020charles_mayara/</guid>
+      <guid>http://reped.com.br/publication/2020charles_mayara/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
 
 body {text-align: justify},

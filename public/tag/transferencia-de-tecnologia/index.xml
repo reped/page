@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Transferência de tecnologia | REPED</title>
-    <link>http://example.org/tag/transferencia-de-tecnologia/</link>
-      <atom:link href="http://example.org/tag/transferencia-de-tecnologia/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/tag/transferencia-de-tecnologia/</link>
+      <atom:link href="http://reped.com.br/tag/transferencia-de-tecnologia/index.xml" rel="self" type="application/rss+xml" />
     <description>Transferência de tecnologia</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>Transferência de tecnologia</title>
-      <link>http://example.org/tag/transferencia-de-tecnologia/</link>
+      <link>http://reped.com.br/tag/transferencia-de-tecnologia/</link>
     </image>
     
     <item>
       <title>Padrões de transferência de tecnologia em aquisições de defesa no Brasil</title>
-      <link>http://example.org/publication/2021artigo_correa_urbina/</link>
+      <link>http://reped.com.br/publication/2021artigo_correa_urbina/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_correa_urbina/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_correa_urbina/</guid>
       <description>&lt;!--
 
 
@@ -68,9 +68,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Investir no desenvolvimento ou simplesmente comprar? Uma exploração da controvérsia em torno da substituição de aviões de caça para a Força Aérea Brasileira</title>
-      <link>http://example.org/publication/2021pre_correa_caliari_bichoffe/</link>
+      <link>http://reped.com.br/publication/2021pre_correa_caliari_bichoffe/</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021pre_correa_caliari_bichoffe/</guid>
+      <guid>http://reped.com.br/publication/2021pre_correa_caliari_bichoffe/</guid>
       <description>
 
 

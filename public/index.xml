@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>REPED</title>
-    <link>http://example.org/</link>
-      <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/</link>
+      <atom:link href="http://reped.com.br/index.xml" rel="self" type="application/rss+xml" />
     <description>REPED</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>REPED</title>
-      <link>http://example.org/</link>
+      <link>http://reped.com.br/</link>
     </image>
     
     <item>
       <title></title>
-      <link>http://example.org/modelo_evento/</link>
+      <link>http://reped.com.br/modelo_evento/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/modelo_evento/</guid>
+      <guid>http://reped.com.br/modelo_evento/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
 
 body {text-align: justify},
@@ -58,9 +58,9 @@ blockquote {
     
     <item>
       <title>A importante transferência tecnológica do caça Gripen NG ao Brasil</title>
-      <link>http://example.org/post/2023-01-05_barbieri/</link>
+      <link>http://reped.com.br/post/2023-01-05_barbieri/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/post/2023-01-05_barbieri/</guid>
+      <guid>http://reped.com.br/post/2023-01-05_barbieri/</guid>
       <description>&lt;p&gt;Projetos Estratégicos de Defesa: O caso do caça Gripen NG da FAB. No dia 13 de dezembro de 2013 foi anunciado o resultado do moroso e disputado processo de escolha do caça principal da FAB, o Projeto F-X2. O vencedor foi o Gripen NG, da sueca Saab, batendo os poderosos Boeing F-18 Super Hornet e Dassault Rafale. Anteriormente páreos duros como o Sukhoi S-30 e o Eurofighter Typhoon já haviam sido descartados na seleção preliminar (short list). O que teria levado à FAB a optar por um avião de caça que no jogo de “Super Trunfo” seria provavelmente a carta “mico”? Alguns analistas chegaram a afirmar que o Gripen NG era a pior escolha porque sequer estava pronto. Era um projeto ainda em desenvolvimento, um “avião de papel”. O mesmo ponto que outros escolheram para apontá-lo como o mais vantajoso para o Brasil. Contudo, isso revela algo essencial sobre como “avaliar” as políticas de defesa de um país. O que poder ser ruim para alguns pode ser o ótimo dos outros. Se precisássemos de um caça “de superioridade” mais robusto, com maior capacidade de levar armamentos, provavelmente o F-18 ou mesmo o Sukhoi S-30 teriam sido a melhor opção. Mas o Projeto F-X2 significou não apenas a aquisição de um novo avião de combate, mas fundamentalmente a capacidade da FAB operá-lo com eficiência e autonomia, além de acelerar desenvolvimento tecnológico nacional. Os Mirage 2000 foram desativados em 2013 e os F-5, produzidos nas décadas de 1970 e 1980, estão no final de suas vidas úteis – mesmo tendo seus sistemas eletrônicos e armamentos atualizados para versão “F-5M” há cerca de uma década – e precisam ser tocados, sob pena de o país ficar desprotegido.&lt;/p&gt;
 &lt;p&gt;Possuindo uma empresa avançada de aeronáutica e algumas parceiras importantes localmente, vem sendo possível desenvolver junto sistemas e componentes relevantes do novo avião, renomeado F-39 (ou Gripen NG Br). Ao fim e ao cabo, o DCTA (onde está o ITA) e a Embraer terão internalizado o domínio da tecnologia supersônica, que é antiga, mas controlada por poucos países. No entanto, o mais importante do Gripen NG é “invisível”: seus sofisticados sistemas eletrônicos, que incorporam o “estado da arte” da tecnologia embarcada em aviões de combate, estando à frente da maioria dos concorrentes. Por essa característica, o Gripen NG cai como uma luva no que é o projeto mais ambicioso da FAB: construir um “domo” eletrônico sobre os quase 20 milhões de Km2 abrangidos pelo Brasil e seu entorno. Um esforço silencioso, mas notável vem sendo feito desde a década de 1970, com o início da implantação do Sistema de Defesa Aérea e Controle do Tráfego Aéreo (SISDACTA), destacando-se a absorção de tecnologias inovadoras quando da implementação da sua última fase, denominada SIVAM, no início do século XXI. Sistemas de comando e controle, redes de dados de alta capacidade, comunicações criptografadas, radares e sensores de alta definição, tratamento de imagem, entre outras, tecnologias típicas da Industria 4.0 vem sendo absorvidas e integradas em um grande sistema de sistemas, que permitirá, se tudo der certo, termos uma arquitetura integrada do controle e defesa do espaço aéreo, baseada em softwares e principais componentes críticos desenvolvidos no Brasil. Os caças são uma peça importante dessa rede, mas eles só realizam todo seu potencial integrados a ela. No interior de cada um deles, o sofisticado painel do tipo &lt;em&gt;Wide Area Display&lt;/em&gt;  – desenvolvidos e fabricados no Brasil pela empresa AEL Sistemas – operarão, interagindo e guiando esses vetores como uma perspectiva integrada de nossos céus. Um outro detalhe importante é o custo disso tudo: cerca de US$ 5 bilhões, uma fração do que vem sendo gasto em programas semelhantes mundo a fora. Imagine-se como estaria sendo “encaixar” os poderosos, mas caríssimos e tecnologicamente blindados F-18 Super Hornet, em nosso orçamento rigidamente limitado por um teto.&lt;/p&gt;
 &lt;style type=&#34;text/css&#34;&gt;
@@ -90,9 +90,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Entrevista do professor Marcos Barbieri para a Revista Sputnik</title>
-      <link>http://example.org/midia/gripen/</link>
+      <link>http://reped.com.br/midia/gripen/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/midia/gripen/</guid>
+      <guid>http://reped.com.br/midia/gripen/</guid>
       <description>&lt;p&gt;Em dezembro de 2022 o Professor Marcos Barbieri concedeu entrevista para a &lt;a href=&#34;https://sputniknewsbrasil.com.br/20221226/mais-moderna-aeronave-de-combate-em-operacao-na-america-latina-diz-especialista-sobre-gripen-ng-26644535.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Revista Sputnik Brasil&lt;/a&gt; sobre o início das operações do caça Saab F-39 Gripen.  O especialista discorreu sobre o &lt;em&gt;upgrade&lt;/em&gt; tecnológico da Força Aérea Brasileira (FAB) com a aquisição e salientou a importância da parceria do Brasil com a empresa sueca para o desenvolvimento da indústria de defesa nacional. Confira a entrevista na integra &lt;a href=&#34;https://sputniknewsbrasil.com.br/20221226/mais-moderna-aeronave-de-combate-em-operacao-na-america-latina-diz-especialista-sobre-gripen-ng-26644535.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
 &lt;style type=&#34;text/css&#34;&gt;
 
@@ -122,9 +122,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Entrevista do professor Marcos Barbieri para a Revista Sputnik</title>
-      <link>http://example.org/project/midia/gripen/</link>
+      <link>http://reped.com.br/project/midia/gripen/</link>
       <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/project/midia/gripen/</guid>
+      <guid>http://reped.com.br/project/midia/gripen/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
 
 body {text-align: justify},
@@ -162,9 +162,9 @@ blockquote {
     
     <item>
       <title>Primeiro Seminário de Economia de Defesa</title>
-      <link>http://example.org/project/evento/seminario/</link>
+      <link>http://reped.com.br/project/evento/seminario/</link>
       <pubDate>Sun, 01 Jan 2023 13:00:00 +0000</pubDate>
-      <guid>http://example.org/project/evento/seminario/</guid>
+      <guid>http://reped.com.br/project/evento/seminario/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
 
 body {text-align: justify},
@@ -207,9 +207,9 @@ blockquote {
     
     <item>
       <title></title>
-      <link>http://example.org/modelo_publicacao/</link>
+      <link>http://reped.com.br/modelo_publicacao/</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/modelo_publicacao/</guid>
+      <guid>http://reped.com.br/modelo_publicacao/</guid>
       <description>&lt;!--
 
 
@@ -261,9 +261,9 @@ blockquote {
     
     <item>
       <title>An empirical model of fleet modernization: On the relationship between market concentration and innovation adoption by airlines</title>
-      <link>http://example.org/publication/2022artigo_oliveira_caliari_narcizo/</link>
+      <link>http://reped.com.br/publication/2022artigo_oliveira_caliari_narcizo/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2022artigo_oliveira_caliari_narcizo/</guid>
+      <guid>http://reped.com.br/publication/2022artigo_oliveira_caliari_narcizo/</guid>
       <description>
 
 
@@ -305,9 +305,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>II Workshop Internacional de Defesa</title>
-      <link>http://example.org/project/evento/example/</link>
+      <link>http://reped.com.br/project/evento/example/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/project/evento/example/</guid>
+      <guid>http://reped.com.br/project/evento/example/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
 
 body {text-align: justify},
@@ -354,9 +354,9 @@ blockquote {
     
     <item>
       <title>I Workshop Nacional de Defesa</title>
-      <link>http://example.org/project/evento/eventos-project/</link>
+      <link>http://reped.com.br/project/evento/eventos-project/</link>
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/project/evento/eventos-project/</guid>
+      <guid>http://reped.com.br/project/evento/eventos-project/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
 body {text-align: justify},
 td {
@@ -395,9 +395,9 @@ blockquote {
     
     <item>
       <title>Padrões de transferência de tecnologia em aquisições de defesa no Brasil</title>
-      <link>http://example.org/publication/2021artigo_correa_urbina/</link>
+      <link>http://reped.com.br/publication/2021artigo_correa_urbina/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_correa_urbina/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_correa_urbina/</guid>
       <description>&lt;!--
 
 
@@ -449,9 +449,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Clustering and Repercussions in Maritime Studies</title>
-      <link>http://example.org/publication/2021caplivro_moreira_medeiros/</link>
+      <link>http://reped.com.br/publication/2021caplivro_moreira_medeiros/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021caplivro_moreira_medeiros/</guid>
+      <guid>http://reped.com.br/publication/2021caplivro_moreira_medeiros/</guid>
       <description>&lt;!--
 
 
@@ -505,9 +505,9 @@ Acesse [](https://www.researchgate.net/publication/356616079_Clustering_and_Repe
     
     <item>
       <title>Investir no desenvolvimento ou simplesmente comprar? Uma exploração da controvérsia em torno da substituição de aviões de caça para a Força Aérea Brasileira</title>
-      <link>http://example.org/publication/2021pre_correa_caliari_bichoffe/</link>
+      <link>http://reped.com.br/publication/2021pre_correa_caliari_bichoffe/</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021pre_correa_caliari_bichoffe/</guid>
+      <guid>http://reped.com.br/publication/2021pre_correa_caliari_bichoffe/</guid>
       <description>
 
 
@@ -549,9 +549,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Avaliação da implementação da cooperação sul-sul do Brasil com São Tomé e Príncipe nos governos Cardoso, Lula e Rousseff</title>
-      <link>http://example.org/publication/2021artigo_violante_pedone/</link>
+      <link>http://reped.com.br/publication/2021artigo_violante_pedone/</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_violante_pedone/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_violante_pedone/</guid>
       <description>&lt;!--
 
 
@@ -603,9 +603,9 @@ h3,h4,h5,h6{
     
     <item>
       <title> As teorias do Comércio Internacional e o contexto do Brasil no mercado de equipamentos bélicos</title>
-      <link>http://example.org/publication/2021conf_matos_foresti/</link>
+      <link>http://reped.com.br/publication/2021conf_matos_foresti/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_matos_foresti/</guid>
+      <guid>http://reped.com.br/publication/2021conf_matos_foresti/</guid>
       <description>&lt;!--
 
 
@@ -657,9 +657,9 @@ blockquote {
     
     <item>
       <title>30 Anos da ABACC e do Acordo Quadripartite: Considerações sobre o Protocolo Adicional ao TNP</title>
-      <link>http://example.org/publication/2021conf_messeder_guimaraes_moura/</link>
+      <link>http://reped.com.br/publication/2021conf_messeder_guimaraes_moura/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_messeder_guimaraes_moura/</guid>
+      <guid>http://reped.com.br/publication/2021conf_messeder_guimaraes_moura/</guid>
       <description>&lt;!--
 
 
@@ -711,9 +711,9 @@ blockquote {
     
     <item>
       <title>Desenvolvimento e defesa: políticas industriais de defesa no governo Lula</title>
-      <link>http://example.org/publication/2021conf_storti_ferreira/</link>
+      <link>http://reped.com.br/publication/2021conf_storti_ferreira/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_storti_ferreira/</guid>
+      <guid>http://reped.com.br/publication/2021conf_storti_ferreira/</guid>
       <description>&lt;!--
 
 
@@ -765,9 +765,9 @@ blockquote {
     
     <item>
       <title>Gamificação e Faixa de Fronteira: a utilização de simulação de processos decisórios em portfólio de projetos estratégicos militares em cursos para assessores e consultores legislativos</title>
-      <link>http://example.org/publication/2021conf_menezes_silva/</link>
+      <link>http://reped.com.br/publication/2021conf_menezes_silva/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_menezes_silva/</guid>
+      <guid>http://reped.com.br/publication/2021conf_menezes_silva/</guid>
       <description>&lt;!--
 
 
@@ -819,9 +819,9 @@ blockquote {
     
     <item>
       <title>Políticas públicas de segurança e defesa nacionais: políticas de governo com horizonte de Estado</title>
-      <link>http://example.org/publication/2021conf_silva/</link>
+      <link>http://reped.com.br/publication/2021conf_silva/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_silva/</guid>
+      <guid>http://reped.com.br/publication/2021conf_silva/</guid>
       <description>&lt;!--
 
 
@@ -873,9 +873,9 @@ blockquote {
     
     <item>
       <title>Public procurement of innovation for obtaining complex defense systems</title>
-      <link>http://example.org/publication/2021artigo_oliveira_oliveira_camposjr_matos/</link>
+      <link>http://reped.com.br/publication/2021artigo_oliveira_oliveira_camposjr_matos/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_oliveira_oliveira_camposjr_matos/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_oliveira_oliveira_camposjr_matos/</guid>
       <description>
 
 
@@ -917,9 +917,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>A Defesa Nacional e os Programas Estratégicos de Defesa do PPA 2016-2019</title>
-      <link>http://example.org/publication/2021artigo_giesteira_matos_a/</link>
+      <link>http://reped.com.br/publication/2021artigo_giesteira_matos_a/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_giesteira_matos_a/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_giesteira_matos_a/</guid>
       <description>
 
 
@@ -961,9 +961,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Estimating fuel-efficiency while accounting for dynamic fleet management. Testing the effects of fuel price signals and fleet rollover</title>
-      <link>http://example.org/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</link>
+      <link>http://reped.com.br/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</guid>
       <description>
 
 
@@ -1005,9 +1005,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Geopolítica e programa espacial brasileiro: da busca pela autonomia ao Acordo de Salvaguardas Tecnológicas</title>
-      <link>http://example.org/publication/2021artigo_matos/</link>
+      <link>http://reped.com.br/publication/2021artigo_matos/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_matos/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_matos/</guid>
       <description>
 
 
@@ -1049,9 +1049,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Saúde e Defesa: interfaces entre conceitos e setores estratégicos para a Segurança Nacional</title>
-      <link>http://example.org/publication/2021caplivro_ferreira_matos/</link>
+      <link>http://reped.com.br/publication/2021caplivro_ferreira_matos/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021caplivro_ferreira_matos/</guid>
+      <guid>http://reped.com.br/publication/2021caplivro_ferreira_matos/</guid>
       <description>&lt;!--
 
 
@@ -1103,9 +1103,9 @@ blockquote {
     
     <item>
       <title>Entrevista do professor para a TV</title>
-      <link>http://example.org/project/midia/2020-12-01-r-rmarkdown/</link>
+      <link>http://reped.com.br/project/midia/2020-12-01-r-rmarkdown/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/project/midia/2020-12-01-r-rmarkdown/</guid>
+      <guid>http://reped.com.br/project/midia/2020-12-01-r-rmarkdown/</guid>
       <description>
 
 
@@ -1163,7 +1163,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;http://example.org/project/midia/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;http://reped.com.br/project/midia/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -1174,9 +1174,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Compras Públicas para a Inovação em Países em Desenvolvimento: a Experiência com os Offsets no setor Aeronáutico Brasileiro</title>
-      <link>http://example.org/publication/2021conf_correa_urbina_caliari/</link>
+      <link>http://reped.com.br/publication/2021conf_correa_urbina_caliari/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_correa_urbina_caliari/</guid>
+      <guid>http://reped.com.br/publication/2021conf_correa_urbina_caliari/</guid>
       <description>&lt;!--
 
 
@@ -1228,9 +1228,9 @@ blockquote {
     
     <item>
       <title>Estratégias concorrenciais entre sistemas operacionais: Microsoft e Android</title>
-      <link>http://example.org/publication/2021conf_zanin_junior_gomes/</link>
+      <link>http://reped.com.br/publication/2021conf_zanin_junior_gomes/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_zanin_junior_gomes/</guid>
+      <guid>http://reped.com.br/publication/2021conf_zanin_junior_gomes/</guid>
       <description>&lt;!--
 
 
@@ -1282,9 +1282,9 @@ blockquote {
     
     <item>
       <title>Indústria aeronáutica brasileira: avanços e limitações de uma política industrial de campeã nacional</title>
-      <link>http://example.org/publication/2021conf_ferreira/</link>
+      <link>http://reped.com.br/publication/2021conf_ferreira/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_ferreira/</guid>
+      <guid>http://reped.com.br/publication/2021conf_ferreira/</guid>
       <description>&lt;!--
 
 
@@ -1336,9 +1336,9 @@ blockquote {
     
     <item>
       <title>A crise sanitária da Covid-19 e a vulnerabilidade produtiva e tecnológica do Complexo Econômico-Industrial da Saúde no Brasil no contexto da financeirização</title>
-      <link>http://example.org/publication/2021artigo_sarti_hiratuka/</link>
+      <link>http://reped.com.br/publication/2021artigo_sarti_hiratuka/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_sarti_hiratuka/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_sarti_hiratuka/</guid>
       <description>
 
 
@@ -1380,9 +1380,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>A Defesa Nacional no Plano Plurianual 2016-2019: uma avaliação a partir dos projetos estratégicos</title>
-      <link>http://example.org/publication/2021artigo_giesteira_matos_ferreira/</link>
+      <link>http://reped.com.br/publication/2021artigo_giesteira_matos_ferreira/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_giesteira_matos_ferreira/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_giesteira_matos_ferreira/</guid>
       <description>
 
 
@@ -1424,9 +1424,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>As organizações militares da Marinha e o crescimento econômico dos municípios brasileiros</title>
-      <link>http://example.org/publication/2021artigo_ribeiro_ribeiro/</link>
+      <link>http://reped.com.br/publication/2021artigo_ribeiro_ribeiro/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_ribeiro_ribeiro/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_ribeiro_ribeiro/</guid>
       <description>&lt;!--
 
 
@@ -1478,9 +1478,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Atualização do Planejamento Estratégico da AMAZUL</title>
-      <link>http://example.org/publication/2021caplivro_correa_silva_honorio/</link>
+      <link>http://reped.com.br/publication/2021caplivro_correa_silva_honorio/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021caplivro_correa_silva_honorio/</guid>
+      <guid>http://reped.com.br/publication/2021caplivro_correa_silva_honorio/</guid>
       <description>&lt;!--
 
 
@@ -1532,9 +1532,9 @@ blockquote {
     
     <item>
       <title>Diálogos na cooperação Sul-Sul (1995-2016)</title>
-      <link>http://example.org/publication/2021livro_violante_marroni_pedone/</link>
+      <link>http://reped.com.br/publication/2021livro_violante_marroni_pedone/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021livro_violante_marroni_pedone/</guid>
+      <guid>http://reped.com.br/publication/2021livro_violante_marroni_pedone/</guid>
       <description>&lt;!--
 
 
@@ -1586,9 +1586,9 @@ blockquote {
     
     <item>
       <title>Avaliação de Políticas Públicas e Programas Governamentais: fundamentos e modelos</title>
-      <link>http://example.org/publication/2021livro_pedone_vedung/</link>
+      <link>http://reped.com.br/publication/2021livro_pedone_vedung/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021livro_pedone_vedung/</guid>
+      <guid>http://reped.com.br/publication/2021livro_pedone_vedung/</guid>
       <description>&lt;!--
 
 
@@ -1639,9 +1639,9 @@ blockquote {
     
     <item>
       <title>Avaliação da estratégia de construção naval canadense no período 2010-2019</title>
-      <link>http://example.org/publication/2021artigo_barreto_santos/</link>
+      <link>http://reped.com.br/publication/2021artigo_barreto_santos/</link>
       <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_barreto_santos/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_barreto_santos/</guid>
       <description>
 
 
@@ -1683,9 +1683,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Crowding-out ou Crowding-in?: uma análise do impacto dos gastos militares nos investimentos privados no Brasil</title>
-      <link>http://example.org/publication/2021conf_lima_leske/</link>
+      <link>http://reped.com.br/publication/2021conf_lima_leske/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_lima_leske/</guid>
+      <guid>http://reped.com.br/publication/2021conf_lima_leske/</guid>
       <description>&lt;!--
 
 
@@ -1737,9 +1737,9 @@ blockquote {
     
     <item>
       <title>Método de Apoio à Decisão à Gestão da Política Pública de Capacitação Tecnológica da Indústria Aeronáutica Brasileira</title>
-      <link>http://example.org/publication/2021conf_francelino_urbina_correa/</link>
+      <link>http://reped.com.br/publication/2021conf_francelino_urbina_correa/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_francelino_urbina_correa/</guid>
+      <guid>http://reped.com.br/publication/2021conf_francelino_urbina_correa/</guid>
       <description>&lt;!--
 
 
@@ -1791,9 +1791,9 @@ blockquote {
     
     <item>
       <title>Operações aéreas com Aeronaves Remotamente Pilotadas (ARPS) e seus reflexos para a base industrial de defesa brasileira</title>
-      <link>http://example.org/publication/2021conf_ferreira_matos/</link>
+      <link>http://reped.com.br/publication/2021conf_ferreira_matos/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_ferreira_matos/</guid>
+      <guid>http://reped.com.br/publication/2021conf_ferreira_matos/</guid>
       <description>&lt;!--
 
 
@@ -1845,9 +1845,9 @@ blockquote {
     
     <item>
       <title>Uma avaliação dos impactos da Indústria 4.0 sobre o  setor aeronáutico</title>
-      <link>http://example.org/publication/2022-12-26-uma-avalia-o/</link>
+      <link>http://reped.com.br/publication/2022-12-26-uma-avalia-o/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2022-12-26-uma-avalia-o/</guid>
+      <guid>http://reped.com.br/publication/2022-12-26-uma-avalia-o/</guid>
       <description>
 
 
@@ -1889,9 +1889,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Hello R Markdown</title>
-      <link>http://example.org/midia/2020-12-01-r-rmarkdown/</link>
+      <link>http://reped.com.br/midia/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://example.org/midia/2020-12-01-r-rmarkdown/</guid>
+      <guid>http://reped.com.br/midia/2020-12-01-r-rmarkdown/</guid>
       <description>
 
 
@@ -1928,7 +1928,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;http://example.org/midia/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;http://reped.com.br/midia/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -1939,9 +1939,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Hello R Markdown</title>
-      <link>http://example.org/post/2020-12-01-r-rmarkdown/</link>
+      <link>http://reped.com.br/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>http://example.org/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>http://reped.com.br/post/2020-12-01-r-rmarkdown/</guid>
       <description>
 
 
@@ -1978,7 +1978,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span style=&#34;display:block;&#34; id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;http://example.org/post/2020-12-01-r-rmarkdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;http://reped.com.br/post/2020-12-01-r-rmarkdown/index_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -1989,9 +1989,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>http://example.org/post/20-12-02-icml-best-paper/</link>
+      <link>http://reped.com.br/post/20-12-02-icml-best-paper/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/post/20-12-02-icml-best-paper/</guid>
+      <guid>http://reped.com.br/post/20-12-02-icml-best-paper/</guid>
       <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
@@ -2000,9 +2000,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>No power vacuum: national security neglect and the defence sector in Brazil</title>
-      <link>http://example.org/publication/2020artigo_lima_silva_rudzit/</link>
+      <link>http://reped.com.br/publication/2020artigo_lima_silva_rudzit/</link>
       <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020artigo_lima_silva_rudzit/</guid>
+      <guid>http://reped.com.br/publication/2020artigo_lima_silva_rudzit/</guid>
       <description>
 
 
@@ -2044,9 +2044,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Brazilian Industrial Defense Base Profile</title>
-      <link>http://example.org/publication/2020artigo_leske_santos/</link>
+      <link>http://reped.com.br/publication/2020artigo_leske_santos/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020artigo_leske_santos/</guid>
+      <guid>http://reped.com.br/publication/2020artigo_leske_santos/</guid>
       <description>
 
 
@@ -2088,9 +2088,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>http://example.org/post/copyof20-12-02-icml-best-paper/</link>
+      <link>http://reped.com.br/post/copyof20-12-02-icml-best-paper/</link>
       <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/post/copyof20-12-02-icml-best-paper/</guid>
+      <guid>http://reped.com.br/post/copyof20-12-02-icml-best-paper/</guid>
       <description>&lt;p&gt;Welcome 👋 We know that first impressions are important, so we’ve populated your new site with some initial content to help you get familiar with everything in no time.&lt;/p&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
@@ -2099,9 +2099,9 @@ h3,h4,h5,h6{
     
     <item>
       <title> Industrial structure, intra-regional trade and financial cooperation in South America Challenges, links and hidden opportunities</title>
-      <link>http://example.org/publication/2020livro_biancarelli_hiratuka_sarti/</link>
+      <link>http://reped.com.br/publication/2020livro_biancarelli_hiratuka_sarti/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020livro_biancarelli_hiratuka_sarti/</guid>
+      <guid>http://reped.com.br/publication/2020livro_biancarelli_hiratuka_sarti/</guid>
       <description>&lt;!--
 
 
@@ -2153,9 +2153,9 @@ blockquote {
     
     <item>
       <title>A Inter-Relação entre Economia do Mar e Economia da Defesa: Uma Análise para Municípios Brasileiros</title>
-      <link>http://example.org/publication/2020conf_ribeiro_ternus_camoca/</link>
+      <link>http://reped.com.br/publication/2020conf_ribeiro_ternus_camoca/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020conf_ribeiro_ternus_camoca/</guid>
+      <guid>http://reped.com.br/publication/2020conf_ribeiro_ternus_camoca/</guid>
       <description>&lt;!--
 
 
@@ -2207,9 +2207,9 @@ blockquote {
     
     <item>
       <title>Parabéns a Richard Hendricks por ganhar o primeiro lugar no Prêmio Wowchemy</title>
-      <link>http://example.org/project/outros/20-12-01-wowchemy-prize/</link>
+      <link>http://reped.com.br/project/outros/20-12-01-wowchemy-prize/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/project/outros/20-12-01-wowchemy-prize/</guid>
+      <guid>http://reped.com.br/project/outros/20-12-01-wowchemy-prize/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
 &lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
 &lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
@@ -2217,9 +2217,9 @@ blockquote {
     
     <item>
       <title>Participação do pesquisador no programa X</title>
-      <link>http://example.org/project/midia/internal-project/</link>
+      <link>http://reped.com.br/project/midia/internal-project/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/project/midia/internal-project/</guid>
+      <guid>http://reped.com.br/project/midia/internal-project/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
 body {text-align: justify},
 td {
@@ -2248,9 +2248,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Prospecção de Patentes e Tendências Tecnológicas em Veículos Aéreos Não Tripulados</title>
-      <link>http://example.org/publication/2020charles_mayara/</link>
+      <link>http://reped.com.br/publication/2020charles_mayara/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020charles_mayara/</guid>
+      <guid>http://reped.com.br/publication/2020charles_mayara/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
 
 body {text-align: justify},
@@ -2289,9 +2289,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Análise dos impactos dos transbordamentos de tecnologia em defesa e dos programas estratégicos sobre o crescimento e o desenvolvimento econômico</title>
-      <link>http://example.org/publication/2020artigo_ribeiro_negrete_ribeiro/</link>
+      <link>http://reped.com.br/publication/2020artigo_ribeiro_negrete_ribeiro/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020artigo_ribeiro_negrete_ribeiro/</guid>
+      <guid>http://reped.com.br/publication/2020artigo_ribeiro_negrete_ribeiro/</guid>
       <description>&lt;!--
 
 
@@ -2343,9 +2343,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Um Panorama da Economia do Mar no Brasil</title>
-      <link>http://example.org/publication/2020caplivro_santos_carvalho/</link>
+      <link>http://reped.com.br/publication/2020caplivro_santos_carvalho/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020caplivro_santos_carvalho/</guid>
+      <guid>http://reped.com.br/publication/2020caplivro_santos_carvalho/</guid>
       <description>&lt;!--
 
 
@@ -2397,9 +2397,9 @@ blockquote {
     
     <item>
       <title>China e a (In)Segurança Energética: Planejamento político com foco na sustentabilidade, competitividade e garantia de suprimentos</title>
-      <link>http://example.org/publication/2020artigo_molina_pedone/</link>
+      <link>http://reped.com.br/publication/2020artigo_molina_pedone/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020artigo_molina_pedone/</guid>
+      <guid>http://reped.com.br/publication/2020artigo_molina_pedone/</guid>
       <description>
 
 
@@ -2441,9 +2441,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Entrevista do professor Marcos Barbieri para o jornalista Fausto Oliveira</title>
-      <link>http://example.org/project/midia/external-project/</link>
+      <link>http://reped.com.br/project/midia/external-project/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/project/midia/external-project/</guid>
+      <guid>http://reped.com.br/project/midia/external-project/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/qXiClSyw1KM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -2476,9 +2476,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Migration and the Mediterranean Sea: a maritime bridge between the EU and Africa</title>
-      <link>http://example.org/publication/2020caplivro_leite_santos_silva/</link>
+      <link>http://reped.com.br/publication/2020caplivro_leite_santos_silva/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020caplivro_leite_santos_silva/</guid>
+      <guid>http://reped.com.br/publication/2020caplivro_leite_santos_silva/</guid>
       <description>&lt;!--
 
 
@@ -2530,9 +2530,9 @@ blockquote {
     
     <item>
       <title>Estudos Estratégicos e Relações Internacionais: o Protagonismo da China no século 21</title>
-      <link>http://example.org/publication/2020livro_rocha_figueiredo/</link>
+      <link>http://reped.com.br/publication/2020livro_rocha_figueiredo/</link>
       <pubDate>Sat, 11 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020livro_rocha_figueiredo/</guid>
+      <guid>http://reped.com.br/publication/2020livro_rocha_figueiredo/</guid>
       <description>&lt;!--
 
 
@@ -2584,9 +2584,9 @@ blockquote {
     
     <item>
       <title>As embarcações autônomas: suas tendências de impacto na segurança marítima</title>
-      <link>http://example.org/publication/2020caplivro_oliveira_vaz_silva/</link>
+      <link>http://reped.com.br/publication/2020caplivro_oliveira_vaz_silva/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020caplivro_oliveira_vaz_silva/</guid>
+      <guid>http://reped.com.br/publication/2020caplivro_oliveira_vaz_silva/</guid>
       <description>&lt;!--
 
 
@@ -2638,9 +2638,9 @@ blockquote {
     
     <item>
       <title>Maritime Studies: Perspectives and Approaches</title>
-      <link>http://example.org/publication/2021livro_almeida_moreira/</link>
+      <link>http://reped.com.br/publication/2021livro_almeida_moreira/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021livro_almeida_moreira/</guid>
+      <guid>http://reped.com.br/publication/2021livro_almeida_moreira/</guid>
       <description>
 
 
@@ -2685,41 +2685,41 @@ h3,h4,h5,h6{
     
     <item>
       <title></title>
-      <link>http://example.org/admin/config.yml</link>
+      <link>http://reped.com.br/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/admin/config.yml</guid>
+      <guid>http://reped.com.br/admin/config.yml</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/contact/</link>
+      <link>http://reped.com.br/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/contact/</guid>
+      <guid>http://reped.com.br/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/institution/people/</link>
+      <link>http://reped.com.br/institution/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/institution/people/</guid>
+      <guid>http://reped.com.br/institution/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Instituições</title>
-      <link>http://example.org/institution/instituicoes/</link>
+      <link>http://reped.com.br/institution/instituicoes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/institution/instituicoes/</guid>
+      <guid>http://reped.com.br/institution/instituicoes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sobre nós</title>
-      <link>http://example.org/tour/</link>
+      <link>http://reped.com.br/tour/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/tour/</guid>
+      <guid>http://reped.com.br/tour/</guid>
       <description></description>
     </item>
     

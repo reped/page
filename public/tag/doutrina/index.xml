@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Doutrina | REPED</title>
-    <link>http://example.org/tag/doutrina/</link>
-      <atom:link href="http://example.org/tag/doutrina/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/tag/doutrina/</link>
+      <atom:link href="http://reped.com.br/tag/doutrina/index.xml" rel="self" type="application/rss+xml" />
     <description>Doutrina</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>Doutrina</title>
-      <link>http://example.org/tag/doutrina/</link>
+      <link>http://reped.com.br/tag/doutrina/</link>
     </image>
     
     <item>
       <title>Operações aéreas com Aeronaves Remotamente Pilotadas (ARPS) e seus reflexos para a base industrial de defesa brasileira</title>
-      <link>http://example.org/publication/2021conf_ferreira_matos/</link>
+      <link>http://reped.com.br/publication/2021conf_ferreira_matos/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_ferreira_matos/</guid>
+      <guid>http://reped.com.br/publication/2021conf_ferreira_matos/</guid>
       <description>&lt;!--
 
 

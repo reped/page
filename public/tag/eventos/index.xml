@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>eventos | REPED</title>
-    <link>http://example.org/tag/eventos/</link>
-      <atom:link href="http://example.org/tag/eventos/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/tag/eventos/</link>
+      <atom:link href="http://reped.com.br/tag/eventos/index.xml" rel="self" type="application/rss+xml" />
     <description>eventos</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Sun, 01 Jan 2023 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>eventos</title>
-      <link>http://example.org/tag/eventos/</link>
+      <link>http://reped.com.br/tag/eventos/</link>
     </image>
     
     <item>
       <title>Primeiro Seminário de Economia de Defesa</title>
-      <link>http://example.org/project/evento/seminario/</link>
+      <link>http://reped.com.br/project/evento/seminario/</link>
       <pubDate>Sun, 01 Jan 2023 13:00:00 +0000</pubDate>
-      <guid>http://example.org/project/evento/seminario/</guid>
+      <guid>http://reped.com.br/project/evento/seminario/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
 
 body {text-align: justify},
@@ -59,9 +59,9 @@ blockquote {
     
     <item>
       <title>II Workshop Internacional de Defesa</title>
-      <link>http://example.org/project/evento/example/</link>
+      <link>http://reped.com.br/project/evento/example/</link>
       <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://example.org/project/evento/example/</guid>
+      <guid>http://reped.com.br/project/evento/example/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
 
 body {text-align: justify},
@@ -108,9 +108,9 @@ blockquote {
     
     <item>
       <title>I Workshop Nacional de Defesa</title>
-      <link>http://example.org/project/evento/eventos-project/</link>
+      <link>http://reped.com.br/project/evento/eventos-project/</link>
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/project/evento/eventos-project/</guid>
+      <guid>http://reped.com.br/project/evento/eventos-project/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
 body {text-align: justify},
 td {

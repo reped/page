@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ariela Leske | REPED</title>
-    <link>http://example.org/author/ariela-leske/</link>
-      <atom:link href="http://example.org/author/ariela-leske/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/author/ariela-leske/</link>
+      <atom:link href="http://reped.com.br/author/ariela-leske/index.xml" rel="self" type="application/rss+xml" />
     <description>Ariela Leske</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>Ariela Leske</title>
-      <link>http://example.org/author/ariela-leske/</link>
+      <link>http://reped.com.br/author/ariela-leske/</link>
     </image>
     
     <item>
       <title>Crowding-out ou Crowding-in?: uma análise do impacto dos gastos militares nos investimentos privados no Brasil</title>
-      <link>http://example.org/publication/2021conf_lima_leske/</link>
+      <link>http://reped.com.br/publication/2021conf_lima_leske/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_lima_leske/</guid>
+      <guid>http://reped.com.br/publication/2021conf_lima_leske/</guid>
       <description>&lt;!--
 
 
@@ -68,9 +68,9 @@ blockquote {
     
     <item>
       <title>Brazilian Industrial Defense Base Profile</title>
-      <link>http://example.org/publication/2020artigo_leske_santos/</link>
+      <link>http://reped.com.br/publication/2020artigo_leske_santos/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020artigo_leske_santos/</guid>
+      <guid>http://reped.com.br/publication/2020artigo_leske_santos/</guid>
       <description>
 
 

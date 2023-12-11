@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>evento | REPED</title>
-    <link>http://example.org/tag/evento/</link>
-      <atom:link href="http://example.org/tag/evento/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/tag/evento/</link>
+      <atom:link href="http://reped.com.br/tag/evento/index.xml" rel="self" type="application/rss+xml" />
     <description>evento</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>evento</title>
-      <link>http://example.org/tag/evento/</link>
+      <link>http://reped.com.br/tag/evento/</link>
     </image>
     
     <item>
       <title></title>
-      <link>http://example.org/modelo_evento/</link>
+      <link>http://reped.com.br/modelo_evento/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://example.org/modelo_evento/</guid>
+      <guid>http://reped.com.br/modelo_evento/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
 
 body {text-align: justify},

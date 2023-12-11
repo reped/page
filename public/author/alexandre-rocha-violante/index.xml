@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexandre Rocha Violante | REPED</title>
-    <link>http://example.org/author/alexandre-rocha-violante/</link>
-      <atom:link href="http://example.org/author/alexandre-rocha-violante/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/author/alexandre-rocha-violante/</link>
+      <atom:link href="http://reped.com.br/author/alexandre-rocha-violante/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexandre Rocha Violante</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>Alexandre Rocha Violante</title>
-      <link>http://example.org/author/alexandre-rocha-violante/</link>
+      <link>http://reped.com.br/author/alexandre-rocha-violante/</link>
     </image>
     
     <item>
       <title>Avaliação da implementação da cooperação sul-sul do Brasil com São Tomé e Príncipe nos governos Cardoso, Lula e Rousseff</title>
-      <link>http://example.org/publication/2021artigo_violante_pedone/</link>
+      <link>http://reped.com.br/publication/2021artigo_violante_pedone/</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_violante_pedone/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_violante_pedone/</guid>
       <description>&lt;!--
 
 
@@ -68,9 +68,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Diálogos na cooperação Sul-Sul (1995-2016)</title>
-      <link>http://example.org/publication/2021livro_violante_marroni_pedone/</link>
+      <link>http://reped.com.br/publication/2021livro_violante_marroni_pedone/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021livro_violante_marroni_pedone/</guid>
+      <guid>http://reped.com.br/publication/2021livro_violante_marroni_pedone/</guid>
       <description>&lt;!--
 
 

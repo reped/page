@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luiz Pedone | REPED</title>
-    <link>http://example.org/author/luiz-pedone/</link>
-      <atom:link href="http://example.org/author/luiz-pedone/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/author/luiz-pedone/</link>
+      <atom:link href="http://reped.com.br/author/luiz-pedone/index.xml" rel="self" type="application/rss+xml" />
     <description>Luiz Pedone</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>Luiz Pedone</title>
-      <link>http://example.org/author/luiz-pedone/</link>
+      <link>http://reped.com.br/author/luiz-pedone/</link>
     </image>
     
     <item>
       <title>Avaliação da implementação da cooperação sul-sul do Brasil com São Tomé e Príncipe nos governos Cardoso, Lula e Rousseff</title>
-      <link>http://example.org/publication/2021artigo_violante_pedone/</link>
+      <link>http://reped.com.br/publication/2021artigo_violante_pedone/</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_violante_pedone/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_violante_pedone/</guid>
       <description>&lt;!--
 
 
@@ -68,9 +68,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Diálogos na cooperação Sul-Sul (1995-2016)</title>
-      <link>http://example.org/publication/2021livro_violante_marroni_pedone/</link>
+      <link>http://reped.com.br/publication/2021livro_violante_marroni_pedone/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021livro_violante_marroni_pedone/</guid>
+      <guid>http://reped.com.br/publication/2021livro_violante_marroni_pedone/</guid>
       <description>&lt;!--
 
 
@@ -122,9 +122,9 @@ blockquote {
     
     <item>
       <title>Avaliação de Políticas Públicas e Programas Governamentais: fundamentos e modelos</title>
-      <link>http://example.org/publication/2021livro_pedone_vedung/</link>
+      <link>http://reped.com.br/publication/2021livro_pedone_vedung/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021livro_pedone_vedung/</guid>
+      <guid>http://reped.com.br/publication/2021livro_pedone_vedung/</guid>
       <description>&lt;!--
 
 
@@ -175,9 +175,9 @@ blockquote {
     
     <item>
       <title>China e a (In)Segurança Energética: Planejamento político com foco na sustentabilidade, competitividade e garantia de suprimentos</title>
-      <link>http://example.org/publication/2020artigo_molina_pedone/</link>
+      <link>http://reped.com.br/publication/2020artigo_molina_pedone/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020artigo_molina_pedone/</guid>
+      <guid>http://reped.com.br/publication/2020artigo_molina_pedone/</guid>
       <description>
 
 

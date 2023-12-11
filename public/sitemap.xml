@@ -2,880 +2,880 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/modelo_evento/</loc>
+    <loc>http://reped.com.br/modelo_evento/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/evento/</loc>
+    <loc>http://reped.com.br/tag/evento/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://reped.com.br/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://reped.com.br/tags/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/post/2023-01-05_barbieri/</loc>
+    <loc>http://reped.com.br/post/2023-01-05_barbieri/</loc>
     <lastmod>2023-01-05T09:18:23-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/authors/</loc>
+    <loc>http://reped.com.br/authors/</loc>
     <lastmod>2023-01-05T09:18:23-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/fab/</loc>
+    <loc>http://reped.com.br/tag/fab/</loc>
     <lastmod>2023-01-05T09:18:23-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/gripen/</loc>
+    <loc>http://reped.com.br/tag/gripen/</loc>
     <lastmod>2023-01-05T09:18:23-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/luis-felipe-giesteira/</loc>
+    <loc>http://reped.com.br/author/luis-felipe-giesteira/</loc>
     <lastmod>2023-01-05T09:18:23-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/marcos-barbieri/</loc>
+    <loc>http://reped.com.br/author/marcos-barbieri/</loc>
     <lastmod>2023-01-05T09:18:23-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>http://reped.com.br/post/</loc>
     <lastmod>2023-01-05T09:18:23-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/midia/gripen/</loc>
+    <loc>http://reped.com.br/midia/gripen/</loc>
     <lastmod>2023-01-04T18:59:14-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/project/midia/gripen/</loc>
+    <loc>http://reped.com.br/project/midia/gripen/</loc>
     <lastmod>2023-01-04T18:59:14-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/midia/</loc>
+    <loc>http://reped.com.br/tag/midia/</loc>
     <lastmod>2023-01-04T18:59:14-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/midia/</loc>
+    <loc>http://reped.com.br/midia/</loc>
     <lastmod>2023-01-04T18:59:14-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/project/</loc>
+    <loc>http://reped.com.br/project/</loc>
     <lastmod>2023-01-04T18:59:14-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/saab/</loc>
+    <loc>http://reped.com.br/tag/saab/</loc>
     <lastmod>2023-01-04T18:59:14-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/eventos/</loc>
+    <loc>http://reped.com.br/tag/eventos/</loc>
     <lastmod>2023-01-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/project/evento/</loc>
+    <loc>http://reped.com.br/project/evento/</loc>
     <lastmod>2023-01-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/project/evento/seminario/</loc>
+    <loc>http://reped.com.br/project/evento/seminario/</loc>
     <lastmod>2023-01-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/modelo_publicacao/</loc>
+    <loc>http://reped.com.br/modelo_publicacao/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication-type/2/</loc>
+    <loc>http://reped.com.br/publication-type/2/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication_types/</loc>
+    <loc>http://reped.com.br/publication_types/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/aircraft-manufacturers/</loc>
+    <loc>http://reped.com.br/tag/aircraft-manufacturers/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/airlines/</loc>
+    <loc>http://reped.com.br/tag/airlines/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/alessandro-v.-m.-oliveira/</loc>
+    <loc>http://reped.com.br/author/alessandro-v.-m.-oliveira/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2022artigo_oliveira_caliari_narcizo/</loc>
+    <loc>http://reped.com.br/publication/2022artigo_oliveira_caliari_narcizo/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/innovation-adoption/</loc>
+    <loc>http://reped.com.br/tag/innovation-adoption/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/lasso/</loc>
+    <loc>http://reped.com.br/tag/lasso/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/model-averaging/</loc>
+    <loc>http://reped.com.br/tag/model-averaging/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/</loc>
+    <loc>http://reped.com.br/publication/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/rodolfo-r.-narcizo/</loc>
+    <loc>http://reped.com.br/author/rodolfo-r.-narcizo/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/thiago-caliari/</loc>
+    <loc>http://reped.com.br/author/thiago-caliari/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/project/evento/example/</loc>
+    <loc>http://reped.com.br/project/evento/example/</loc>
     <lastmod>2022-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/project/evento/eventos-project/</loc>
+    <loc>http://reped.com.br/project/evento/eventos-project/</loc>
     <lastmod>2021-12-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/aquisicao-de-defesa/</loc>
+    <loc>http://reped.com.br/tag/aquisicao-de-defesa/</loc>
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/gilberto-correa/</loc>
+    <loc>http://reped.com.br/author/gilberto-correa/</loc>
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/ligia-urbina/</loc>
+    <loc>http://reped.com.br/author/ligia-urbina/</loc>
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/offset.-compensacao-tecnologica-industrial-e-comercial/</loc>
+    <loc>http://reped.com.br/tag/offset.-compensacao-tecnologica-industrial-e-comercial/</loc>
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021artigo_correa_urbina/</loc>
+    <loc>http://reped.com.br/publication/2021artigo_correa_urbina/</loc>
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/transferencia-de-tecnologia/</loc>
+    <loc>http://reped.com.br/tag/transferencia-de-tecnologia/</loc>
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication-type/6/</loc>
+    <loc>http://reped.com.br/publication-type/6/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021caplivro_moreira_medeiros/</loc>
+    <loc>http://reped.com.br/publication/2021caplivro_moreira_medeiros/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/elmo-cavalcante-gomes-jr/</loc>
+    <loc>http://reped.com.br/author/elmo-cavalcante-gomes-jr/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/sabrina-evagelista-medeiros/</loc>
+    <loc>http://reped.com.br/author/sabrina-evagelista-medeiros/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/william-de-sousa-moreira/</loc>
+    <loc>http://reped.com.br/author/william-de-sousa-moreira/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/ana-carolina-bichoffe/</loc>
+    <loc>http://reped.com.br/author/ana-carolina-bichoffe/</loc>
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/cartografia-das-controversias/</loc>
+    <loc>http://reped.com.br/tag/cartografia-das-controversias/</loc>
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021pre_correa_caliari_bichoffe/</loc>
+    <loc>http://reped.com.br/publication/2021pre_correa_caliari_bichoffe/</loc>
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/projeto-f-x2/</loc>
+    <loc>http://reped.com.br/tag/projeto-f-x2/</loc>
     <lastmod>2021-09-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/alexandre-rocha-violante/</loc>
+    <loc>http://reped.com.br/author/alexandre-rocha-violante/</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/analise-e-avaliacao/</loc>
+    <loc>http://reped.com.br/tag/analise-e-avaliacao/</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021artigo_violante_pedone/</loc>
+    <loc>http://reped.com.br/publication/2021artigo_violante_pedone/</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/brasil/</loc>
+    <loc>http://reped.com.br/tag/brasil/</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/cooperacao-sul-sul/</loc>
+    <loc>http://reped.com.br/tag/cooperacao-sul-sul/</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/luiz-pedone/</loc>
+    <loc>http://reped.com.br/author/luiz-pedone/</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/politicas-publicas/</loc>
+    <loc>http://reped.com.br/tag/politicas-publicas/</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/sao-tome-e-principe/</loc>
+    <loc>http://reped.com.br/tag/sao-tome-e-principe/</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021conf_matos_foresti/</loc>
+    <loc>http://reped.com.br/publication/2021conf_matos_foresti/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication-type/1/</loc>
+    <loc>http://reped.com.br/publication-type/1/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021conf_messeder_guimaraes_moura/</loc>
+    <loc>http://reped.com.br/publication/2021conf_messeder_guimaraes_moura/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/abacc/</loc>
+    <loc>http://reped.com.br/tag/abacc/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/acordo-quadripartite/</loc>
+    <loc>http://reped.com.br/tag/acordo-quadripartite/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/alan-azevedo-messeder/</loc>
+    <loc>http://reped.com.br/author/alan-azevedo-messeder/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/defesa-nacional/</loc>
+    <loc>http://reped.com.br/tag/defesa-nacional/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021conf_storti_ferreira/</loc>
+    <loc>http://reped.com.br/publication/2021conf_storti_ferreira/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/desenvolvimento-economico/</loc>
+    <loc>http://reped.com.br/tag/desenvolvimento-economico/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/dienifer-regina-fortes-storti/</loc>
+    <loc>http://reped.com.br/author/dienifer-regina-fortes-storti/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021conf_menezes_silva/</loc>
+    <loc>http://reped.com.br/publication/2021conf_menezes_silva/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/governo-lula/</loc>
+    <loc>http://reped.com.br/tag/governo-lula/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/gustavo-andre-pereira-guimaraes/</loc>
+    <loc>http://reped.com.br/author/gustavo-andre-pereira-guimaraes/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/iliane-jesuina-silva-foresti/</loc>
+    <loc>http://reped.com.br/author/iliane-jesuina-silva-foresti/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/jose-augusto-abreu-de-moura/</loc>
+    <loc>http://reped.com.br/author/jose-augusto-abreu-de-moura/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/julio-eduardo-da-silva-menezes/</loc>
+    <loc>http://reped.com.br/author/julio-eduardo-da-silva-menezes/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/mercado-internacional-de-equipamentos-de-defesa/</loc>
+    <loc>http://reped.com.br/tag/mercado-internacional-de-equipamentos-de-defesa/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/orcamento-de-defesa/</loc>
+    <loc>http://reped.com.br/tag/orcamento-de-defesa/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/patricia-de-oliveira-matos/</loc>
+    <loc>http://reped.com.br/author/patricia-de-oliveira-matos/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/peterson-ferreira-da-silva/</loc>
+    <loc>http://reped.com.br/author/peterson-ferreira-da-silva/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/politica-industrial-de-defesa/</loc>
+    <loc>http://reped.com.br/tag/politica-industrial-de-defesa/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021conf_silva/</loc>
+    <loc>http://reped.com.br/publication/2021conf_silva/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/programa-nuclear-brasileiro/</loc>
+    <loc>http://reped.com.br/tag/programa-nuclear-brasileiro/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/projetos-estrategicos-militares/</loc>
+    <loc>http://reped.com.br/tag/projetos-estrategicos-militares/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/protocolo-adicional-ao-tnp/</loc>
+    <loc>http://reped.com.br/tag/protocolo-adicional-ao-tnp/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/salvaguardas-nucleares/</loc>
+    <loc>http://reped.com.br/tag/salvaguardas-nucleares/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/seguranca-nacional/</loc>
+    <loc>http://reped.com.br/tag/seguranca-nacional/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/simulacao/</loc>
+    <loc>http://reped.com.br/tag/simulacao/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/teorias-de-comercio-internacional/</loc>
+    <loc>http://reped.com.br/tag/teorias-de-comercio-internacional/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/janaina-rodrigues-marcos-dantas-de-sousa-oliveira/</loc>
+    <loc>http://reped.com.br/author/janaina-rodrigues-marcos-dantas-de-sousa-oliveira/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/jorge-marques-de-campos-junior/</loc>
+    <loc>http://reped.com.br/author/jorge-marques-de-campos-junior/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021artigo_oliveira_oliveira_camposjr_matos/</loc>
+    <loc>http://reped.com.br/publication/2021artigo_oliveira_oliveira_camposjr_matos/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/wankley-lima-de-oliveira/</loc>
+    <loc>http://reped.com.br/author/wankley-lima-de-oliveira/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021artigo_giesteira_matos_a/</loc>
+    <loc>http://reped.com.br/publication/2021artigo_giesteira_matos_a/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/estrategia/</loc>
+    <loc>http://reped.com.br/tag/estrategia/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/inovacao-tecnologica/</loc>
+    <loc>http://reped.com.br/tag/inovacao-tecnologica/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/plano-plurianual/</loc>
+    <loc>http://reped.com.br/tag/plano-plurianual/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/politica-de-defesa-nacional/</loc>
+    <loc>http://reped.com.br/tag/politica-de-defesa-nacional/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/thiago-borne-ferreira/</loc>
+    <loc>http://reped.com.br/author/thiago-borne-ferreira/</loc>
     <lastmod>2021-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</loc>
+    <loc>http://reped.com.br/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021artigo_matos/</loc>
+    <loc>http://reped.com.br/publication/2021artigo_matos/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/mauricio-a.-v.-morales/</loc>
+    <loc>http://reped.com.br/author/mauricio-a.-v.-morales/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/rafael-prado/</loc>
+    <loc>http://reped.com.br/author/rafael-prado/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/emilio-augusto-de-santana-ferreira/</loc>
+    <loc>http://reped.com.br/author/emilio-augusto-de-santana-ferreira/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021caplivro_ferreira_matos/</loc>
+    <loc>http://reped.com.br/publication/2021caplivro_ferreira_matos/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/project/midia/2020-12-01-r-rmarkdown/</loc>
+    <loc>http://reped.com.br/project/midia/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2021-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/android/</loc>
+    <loc>http://reped.com.br/tag/android/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/cadeia-global-de-valor/</loc>
+    <loc>http://reped.com.br/tag/cadeia-global-de-valor/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/campeao-nacional/</loc>
+    <loc>http://reped.com.br/tag/campeao-nacional/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/celso-neris-junior/</loc>
+    <loc>http://reped.com.br/author/celso-neris-junior/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021conf_correa_urbina_caliari/</loc>
+    <loc>http://reped.com.br/publication/2021conf_correa_urbina_caliari/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021conf_zanin_junior_gomes/</loc>
+    <loc>http://reped.com.br/publication/2021conf_zanin_junior_gomes/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/henrique-zanin/</loc>
+    <loc>http://reped.com.br/author/henrique-zanin/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/industria-aeronautica/</loc>
+    <loc>http://reped.com.br/tag/industria-aeronautica/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021conf_ferreira/</loc>
+    <loc>http://reped.com.br/publication/2021conf_ferreira/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/politica-industrial/</loc>
+    <loc>http://reped.com.br/tag/politica-industrial/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/politicas-de-ciencia/</loc>
+    <loc>http://reped.com.br/tag/politicas-de-ciencia/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/rogerio-gomes/</loc>
+    <loc>http://reped.com.br/author/rogerio-gomes/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/sistemas-operacionais/</loc>
+    <loc>http://reped.com.br/tag/sistemas-operacionais/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/tecnologia-e-inovacao/</loc>
+    <loc>http://reped.com.br/tag/tecnologia-e-inovacao/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/telecomunicao-movel/</loc>
+    <loc>http://reped.com.br/tag/telecomunicao-movel/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/windows-phone/</loc>
+    <loc>http://reped.com.br/tag/windows-phone/</loc>
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication-type/5/</loc>
+    <loc>http://reped.com.br/publication-type/5/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021artigo_sarti_hiratuka/</loc>
+    <loc>http://reped.com.br/publication/2021artigo_sarti_hiratuka/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021artigo_giesteira_matos_ferreira/</loc>
+    <loc>http://reped.com.br/publication/2021artigo_giesteira_matos_ferreira/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021artigo_ribeiro_ribeiro/</loc>
+    <loc>http://reped.com.br/publication/2021artigo_ribeiro_ribeiro/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021caplivro_correa_silva_honorio/</loc>
+    <loc>http://reped.com.br/publication/2021caplivro_correa_silva_honorio/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/brazilians-municipalities/</loc>
+    <loc>http://reped.com.br/tag/brazilians-municipalities/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/camila-veneo-campos-fonseca/</loc>
+    <loc>http://reped.com.br/author/camila-veneo-campos-fonseca/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/celio-hiratuka/</loc>
+    <loc>http://reped.com.br/author/celio-hiratuka/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/claudio-correa/</loc>
+    <loc>http://reped.com.br/author/claudio-correa/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/complexo-economico-industrial-da-saude/</loc>
+    <loc>http://reped.com.br/tag/complexo-economico-industrial-da-saude/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/covid-19/</loc>
+    <loc>http://reped.com.br/tag/covid-19/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/defense-economics/</loc>
+    <loc>http://reped.com.br/tag/defense-economics/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/defense-expenditures/</loc>
+    <loc>http://reped.com.br/tag/defense-expenditures/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021livro_violante_marroni_pedone/</loc>
+    <loc>http://reped.com.br/publication/2021livro_violante_marroni_pedone/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/economic-growth/</loc>
+    <loc>http://reped.com.br/tag/economic-growth/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/erika-almeida-ribeiro/</loc>
+    <loc>http://reped.com.br/author/erika-almeida-ribeiro/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/etiene-villela-marroni/</loc>
+    <loc>http://reped.com.br/author/etiene-villela-marroni/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/fernando-sarti/</loc>
+    <loc>http://reped.com.br/author/fernando-sarti/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/filipe-simoes-ribeiro/</loc>
+    <loc>http://reped.com.br/author/filipe-simoes-ribeiro/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/industria-4.0/</loc>
+    <loc>http://reped.com.br/tag/industria-4.0/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/jessica-germano-de-lima-silva/</loc>
+    <loc>http://reped.com.br/author/jessica-germano-de-lima-silva/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/sistema-unico-de-saude-sus/</loc>
+    <loc>http://reped.com.br/tag/sistema-unico-de-saude-sus/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/thiago-honorio/</loc>
+    <loc>http://reped.com.br/author/thiago-honorio/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/vulnerabilidade/</loc>
+    <loc>http://reped.com.br/tag/vulnerabilidade/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021livro_pedone_vedung/</loc>
+    <loc>http://reped.com.br/publication/2021livro_pedone_vedung/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/evert-vedung/</loc>
+    <loc>http://reped.com.br/author/evert-vedung/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021artigo_barreto_santos/</loc>
+    <loc>http://reped.com.br/publication/2021artigo_barreto_santos/</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/jessica-pires-barbosa-barreto/</loc>
+    <loc>http://reped.com.br/author/jessica-pires-barbosa-barreto/</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/thauan-santos/</loc>
+    <loc>http://reped.com.br/author/thauan-santos/</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/aeronaves-remotamente-pilotadas/</loc>
+    <loc>http://reped.com.br/tag/aeronaves-remotamente-pilotadas/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/ariela-leske/</loc>
+    <loc>http://reped.com.br/author/ariela-leske/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/avaliacao-da-capacitacao-tecnologica/</loc>
+    <loc>http://reped.com.br/tag/avaliacao-da-capacitacao-tecnologica/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/avaliacao-de-programas-publicos/</loc>
+    <loc>http://reped.com.br/tag/avaliacao-de-programas-publicos/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/base-industrial-de-defesa/</loc>
+    <loc>http://reped.com.br/tag/base-industrial-de-defesa/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021conf_lima_leske/</loc>
+    <loc>http://reped.com.br/publication/2021conf_lima_leske/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/doutrina/</loc>
+    <loc>http://reped.com.br/tag/doutrina/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/gestao-de-politicas-publicas/</loc>
+    <loc>http://reped.com.br/tag/gestao-de-politicas-publicas/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/josiane-francelino/</loc>
+    <loc>http://reped.com.br/author/josiane/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/metodo-de-apoio-a-decisao/</loc>
+    <loc>http://reped.com.br/tag/metodo-de-apoio-a-decisao/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021conf_francelino_urbina_correa/</loc>
+    <loc>http://reped.com.br/publication/2021conf_francelino_urbina_correa/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021conf_ferreira_matos/</loc>
+    <loc>http://reped.com.br/publication/2021conf_ferreira_matos/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/rafael-de-morais-lima/</loc>
+    <loc>http://reped.com.br/author/rafael-de-morais-lima/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/celso-pereira-neris-junior/</loc>
+    <loc>http://reped.com.br/author/celso-pereira-neris-junior/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2022-12-26-uma-avalia-o/</loc>
+    <loc>http://reped.com.br/publication/2022-12-26-uma-avalia-o/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://reped.com.br/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/midia/2020-12-01-r-rmarkdown/</loc>
+    <loc>http://reped.com.br/midia/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/post/2020-12-01-r-rmarkdown/</loc>
+    <loc>http://reped.com.br/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/plot/</loc>
+    <loc>http://reped.com.br/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/category/r/</loc>
+    <loc>http://reped.com.br/category/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/r-markdown/</loc>
+    <loc>http://reped.com.br/tag/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/regression/</loc>
+    <loc>http://reped.com.br/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/post/20-12-02-icml-best-paper/</loc>
+    <loc>http://reped.com.br/post/20-12-02-icml-best-paper/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/gunther-rudzit/</loc>
+    <loc>http://reped.com.br/author/gunther-rudzit/</loc>
     <lastmod>2020-11-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2020artigo_lima_silva_rudzit/</loc>
+    <loc>http://reped.com.br/publication/2020artigo_lima_silva_rudzit/</loc>
     <lastmod>2020-11-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/peterson-f.-silva/</loc>
+    <loc>http://reped.com.br/author/peterson-f.-silva/</loc>
     <lastmod>2020-11-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/raphael-c.-lima/</loc>
+    <loc>http://reped.com.br/author/raphael-c.-lima/</loc>
     <lastmod>2020-11-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2020artigo_leske_santos/</loc>
+    <loc>http://reped.com.br/publication/2020artigo_leske_santos/</loc>
     <lastmod>2020-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/post/copyof20-12-02-icml-best-paper/</loc>
+    <loc>http://reped.com.br/post/copyof20-12-02-icml-best-paper/</loc>
     <lastmod>2020-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2020livro_biancarelli_hiratuka_sarti/</loc>
+    <loc>http://reped.com.br/publication/2020livro_biancarelli_hiratuka_sarti/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/andre-biancarelli/</loc>
+    <loc>http://reped.com.br/author/andre-biancarelli/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2020conf_ribeiro_ternus_camoca/</loc>
+    <loc>http://reped.com.br/publication/2020conf_ribeiro_ternus_camoca/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/alana-camoca/</loc>
+    <loc>http://reped.com.br/author/alana-camoca/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/cassia-ternus/</loc>
+    <loc>http://reped.com.br/author/cassia-ternus/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/economia-da-defesa/</loc>
+    <loc>http://reped.com.br/tag/economia-da-defesa/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/economia-do-mar/</loc>
+    <loc>http://reped.com.br/tag/economia-do-mar/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/municipios-brasileiros/</loc>
+    <loc>http://reped.com.br/tag/municipios-brasileiros/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/outros/</loc>
+    <loc>http://reped.com.br/tag/outros/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/project/outros/20-12-01-wowchemy-prize/</loc>
+    <loc>http://reped.com.br/project/outros/20-12-01-wowchemy-prize/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/project/midia/internal-project/</loc>
+    <loc>http://reped.com.br/project/midia/internal-project/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/charles-souza/</loc>
+    <loc>http://reped.com.br/author/charles-souza/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/mayara-bovo/</loc>
+    <loc>http://reped.com.br/author/mayara-bovo/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/patentes/</loc>
+    <loc>http://reped.com.br/tag/patentes/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2020charles_mayara/</loc>
+    <loc>http://reped.com.br/publication/2020charles_mayara/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/prospeccao-tecnologica/</loc>
+    <loc>http://reped.com.br/tag/prospeccao-tecnologica/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tag/veiculos-aereos-nao-tripulados/</loc>
+    <loc>http://reped.com.br/tag/veiculos-aereos-nao-tripulados/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/ana-carolina-aguilera-negrete/</loc>
+    <loc>http://reped.com.br/author/ana-carolina-aguilera-negrete/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2020artigo_ribeiro_negrete_ribeiro/</loc>
+    <loc>http://reped.com.br/publication/2020artigo_ribeiro_negrete_ribeiro/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/andrea-bento-carvalho/</loc>
+    <loc>http://reped.com.br/author/andrea-bento-carvalho/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2020caplivro_santos_carvalho/</loc>
+    <loc>http://reped.com.br/publication/2020caplivro_santos_carvalho/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2020artigo_molina_pedone/</loc>
+    <loc>http://reped.com.br/publication/2020artigo_molina_pedone/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/tatiana-molina/</loc>
+    <loc>http://reped.com.br/author/tatiana-molina/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/project/midia/external-project/</loc>
+    <loc>http://reped.com.br/project/midia/external-project/</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/ana-paula-moreira-rodriguez-leite/</loc>
+    <loc>http://reped.com.br/author/ana-paula-moreira-rodriguez-leite/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/daniele-dionisio-da-silva/</loc>
+    <loc>http://reped.com.br/author/daniele-dionisio-da-silva/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2020caplivro_leite_santos_silva/</loc>
+    <loc>http://reped.com.br/publication/2020caplivro_leite_santos_silva/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2020livro_rocha_figueiredo/</loc>
+    <loc>http://reped.com.br/publication/2020livro_rocha_figueiredo/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/eurico-de-lima-figueiredo/</loc>
+    <loc>http://reped.com.br/author/eurico-de-lima-figueiredo/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/marcio-rocha/</loc>
+    <loc>http://reped.com.br/author/marcio-rocha/</loc>
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2020caplivro_oliveira_vaz_silva/</loc>
+    <loc>http://reped.com.br/publication/2020caplivro_oliveira_vaz_silva/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/luisa-guimaraes-vaz/</loc>
+    <loc>http://reped.com.br/author/luisa-guimaraes-vaz/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/valdenize-pereira-oliveira/</loc>
+    <loc>http://reped.com.br/author/valdenize-pereira-oliveira/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/author/francisco-eduardo-alves-de-almeida/</loc>
+    <loc>http://reped.com.br/author/francisco-eduardo-alves-de-almeida/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/publication/2021livro_almeida_moreira/</loc>
+    <loc>http://reped.com.br/publication/2021livro_almeida_moreira/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/admin/</loc>
+    <loc>http://reped.com.br/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>http://reped.com.br/contact/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/institution/</loc>
+    <loc>http://reped.com.br/institution/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/institution/people/</loc>
+    <loc>http://reped.com.br/institution/people/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/institution/instituicoes/</loc>
+    <loc>http://reped.com.br/institution/instituicoes/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/linha/</loc>
+    <loc>http://reped.com.br/linha/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/tour/</loc>
+    <loc>http://reped.com.br/tour/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://example.org/institution/projeto/</loc>
+    <loc>http://reped.com.br/institution/projeto/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

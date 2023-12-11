@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brasil | REPED</title>
-    <link>http://example.org/tag/brasil/</link>
-      <atom:link href="http://example.org/tag/brasil/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/tag/brasil/</link>
+      <atom:link href="http://reped.com.br/tag/brasil/index.xml" rel="self" type="application/rss+xml" />
     <description>Brasil</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>Brasil</title>
-      <link>http://example.org/tag/brasil/</link>
+      <link>http://reped.com.br/tag/brasil/</link>
     </image>
     
     <item>
       <title>Avaliação da implementação da cooperação sul-sul do Brasil com São Tomé e Príncipe nos governos Cardoso, Lula e Rousseff</title>
-      <link>http://example.org/publication/2021artigo_violante_pedone/</link>
+      <link>http://reped.com.br/publication/2021artigo_violante_pedone/</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_violante_pedone/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_violante_pedone/</guid>
       <description>&lt;!--
 
 
@@ -68,9 +68,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Indústria aeronáutica brasileira: avanços e limitações de uma política industrial de campeã nacional</title>
-      <link>http://example.org/publication/2021conf_ferreira/</link>
+      <link>http://reped.com.br/publication/2021conf_ferreira/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_ferreira/</guid>
+      <guid>http://reped.com.br/publication/2021conf_ferreira/</guid>
       <description>&lt;!--
 
 

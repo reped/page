@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alana Camoça | REPED</title>
-    <link>http://example.org/author/alana-camoca/</link>
-      <atom:link href="http://example.org/author/alana-camoca/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/author/alana-camoca/</link>
+      <atom:link href="http://reped.com.br/author/alana-camoca/index.xml" rel="self" type="application/rss+xml" />
     <description>Alana Camoça</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>Alana Camoça</title>
-      <link>http://example.org/author/alana-camoca/</link>
+      <link>http://reped.com.br/author/alana-camoca/</link>
     </image>
     
     <item>
       <title>A Inter-Relação entre Economia do Mar e Economia da Defesa: Uma Análise para Municípios Brasileiros</title>
-      <link>http://example.org/publication/2020conf_ribeiro_ternus_camoca/</link>
+      <link>http://reped.com.br/publication/2020conf_ribeiro_ternus_camoca/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020conf_ribeiro_ternus_camoca/</guid>
+      <guid>http://reped.com.br/publication/2020conf_ribeiro_ternus_camoca/</guid>
       <description>&lt;!--
 
 

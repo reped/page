@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thauan Santos | REPED</title>
-    <link>http://example.org/author/thauan-santos/</link>
-      <atom:link href="http://example.org/author/thauan-santos/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/author/thauan-santos/</link>
+      <atom:link href="http://reped.com.br/author/thauan-santos/index.xml" rel="self" type="application/rss+xml" />
     <description>Thauan Santos</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>Thauan Santos</title>
-      <link>http://example.org/author/thauan-santos/</link>
+      <link>http://reped.com.br/author/thauan-santos/</link>
     </image>
     
     <item>
       <title>Avaliação da estratégia de construção naval canadense no período 2010-2019</title>
-      <link>http://example.org/publication/2021artigo_barreto_santos/</link>
+      <link>http://reped.com.br/publication/2021artigo_barreto_santos/</link>
       <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_barreto_santos/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_barreto_santos/</guid>
       <description>
 
 
@@ -58,9 +58,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Brazilian Industrial Defense Base Profile</title>
-      <link>http://example.org/publication/2020artigo_leske_santos/</link>
+      <link>http://reped.com.br/publication/2020artigo_leske_santos/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020artigo_leske_santos/</guid>
+      <guid>http://reped.com.br/publication/2020artigo_leske_santos/</guid>
       <description>
 
 
@@ -102,9 +102,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Um Panorama da Economia do Mar no Brasil</title>
-      <link>http://example.org/publication/2020caplivro_santos_carvalho/</link>
+      <link>http://reped.com.br/publication/2020caplivro_santos_carvalho/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020caplivro_santos_carvalho/</guid>
+      <guid>http://reped.com.br/publication/2020caplivro_santos_carvalho/</guid>
       <description>&lt;!--
 
 
@@ -156,9 +156,9 @@ blockquote {
     
     <item>
       <title>Migration and the Mediterranean Sea: a maritime bridge between the EU and Africa</title>
-      <link>http://example.org/publication/2020caplivro_leite_santos_silva/</link>
+      <link>http://reped.com.br/publication/2020caplivro_leite_santos_silva/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020caplivro_leite_santos_silva/</guid>
+      <guid>http://reped.com.br/publication/2020caplivro_leite_santos_silva/</guid>
       <description>&lt;!--
 
 

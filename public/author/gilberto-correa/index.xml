@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gilberto Corrêa | REPED</title>
-    <link>http://example.org/author/gilberto-correa/</link>
-      <atom:link href="http://example.org/author/gilberto-correa/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/author/gilberto-correa/</link>
+      <atom:link href="http://reped.com.br/author/gilberto-correa/index.xml" rel="self" type="application/rss+xml" />
     <description>Gilberto Corrêa</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Fri, 24 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/author/gilberto-correa/avatar_hu3502d27fcd59af2fdce86f52a27b54b8_16708_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://reped.com.br/author/gilberto-correa/avatar_hu3502d27fcd59af2fdce86f52a27b54b8_16708_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Gilberto Corrêa</title>
-      <link>http://example.org/author/gilberto-correa/</link>
+      <link>http://reped.com.br/author/gilberto-correa/</link>
     </image>
     
     <item>
       <title>Padrões de transferência de tecnologia em aquisições de defesa no Brasil</title>
-      <link>http://example.org/publication/2021artigo_correa_urbina/</link>
+      <link>http://reped.com.br/publication/2021artigo_correa_urbina/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021artigo_correa_urbina/</guid>
+      <guid>http://reped.com.br/publication/2021artigo_correa_urbina/</guid>
       <description>&lt;!--
 
 
@@ -68,9 +68,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Investir no desenvolvimento ou simplesmente comprar? Uma exploração da controvérsia em torno da substituição de aviões de caça para a Força Aérea Brasileira</title>
-      <link>http://example.org/publication/2021pre_correa_caliari_bichoffe/</link>
+      <link>http://reped.com.br/publication/2021pre_correa_caliari_bichoffe/</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021pre_correa_caliari_bichoffe/</guid>
+      <guid>http://reped.com.br/publication/2021pre_correa_caliari_bichoffe/</guid>
       <description>
 
 
@@ -112,9 +112,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Compras Públicas para a Inovação em Países em Desenvolvimento: a Experiência com os Offsets no setor Aeronáutico Brasileiro</title>
-      <link>http://example.org/publication/2021conf_correa_urbina_caliari/</link>
+      <link>http://reped.com.br/publication/2021conf_correa_urbina_caliari/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_correa_urbina_caliari/</guid>
+      <guid>http://reped.com.br/publication/2021conf_correa_urbina_caliari/</guid>
       <description>&lt;!--
 
 
@@ -166,9 +166,9 @@ blockquote {
     
     <item>
       <title>Método de Apoio à Decisão à Gestão da Política Pública de Capacitação Tecnológica da Indústria Aeronáutica Brasileira</title>
-      <link>http://example.org/publication/2021conf_francelino_urbina_correa/</link>
+      <link>http://reped.com.br/publication/2021conf_francelino_urbina_correa/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021conf_francelino_urbina_correa/</guid>
+      <guid>http://reped.com.br/publication/2021conf_francelino_urbina_correa/</guid>
       <description>&lt;!--
 
 

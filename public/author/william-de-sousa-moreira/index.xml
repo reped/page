@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>William de Sousa Moreira | REPED</title>
-    <link>http://example.org/author/william-de-sousa-moreira/</link>
-      <atom:link href="http://example.org/author/william-de-sousa-moreira/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/author/william-de-sousa-moreira/</link>
+      <atom:link href="http://reped.com.br/author/william-de-sousa-moreira/index.xml" rel="self" type="application/rss+xml" />
     <description>William de Sousa Moreira</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>William de Sousa Moreira</title>
-      <link>http://example.org/author/william-de-sousa-moreira/</link>
+      <link>http://reped.com.br/author/william-de-sousa-moreira/</link>
     </image>
     
     <item>
       <title>Clustering and Repercussions in Maritime Studies</title>
-      <link>http://example.org/publication/2021caplivro_moreira_medeiros/</link>
+      <link>http://reped.com.br/publication/2021caplivro_moreira_medeiros/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021caplivro_moreira_medeiros/</guid>
+      <guid>http://reped.com.br/publication/2021caplivro_moreira_medeiros/</guid>
       <description>&lt;!--
 
 
@@ -70,9 +70,9 @@ Acesse [](https://www.researchgate.net/publication/356616079_Clustering_and_Repe
     
     <item>
       <title>Maritime Studies: Perspectives and Approaches</title>
-      <link>http://example.org/publication/2021livro_almeida_moreira/</link>
+      <link>http://reped.com.br/publication/2021livro_almeida_moreira/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021livro_almeida_moreira/</guid>
+      <guid>http://reped.com.br/publication/2021livro_almeida_moreira/</guid>
       <description>
 
 

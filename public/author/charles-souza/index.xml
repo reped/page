@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Charles Souza | REPED</title>
-    <link>http://example.org/author/charles-souza/</link>
-      <atom:link href="http://example.org/author/charles-souza/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/author/charles-souza/</link>
+      <atom:link href="http://reped.com.br/author/charles-souza/index.xml" rel="self" type="application/rss+xml" />
     <description>Charles Souza</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/author/charles-souza/avatar_hu22551aab299e2b4a1f889e4b81cc06e3_530272_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://reped.com.br/author/charles-souza/avatar_hu22551aab299e2b4a1f889e4b81cc06e3_530272_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Charles Souza</title>
-      <link>http://example.org/author/charles-souza/</link>
+      <link>http://reped.com.br/author/charles-souza/</link>
     </image>
     
     <item>
       <title>Prospecção de Patentes e Tendências Tecnológicas em Veículos Aéreos Não Tripulados</title>
-      <link>http://example.org/publication/2020charles_mayara/</link>
+      <link>http://reped.com.br/publication/2020charles_mayara/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2020charles_mayara/</guid>
+      <guid>http://reped.com.br/publication/2020charles_mayara/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
 
 body {text-align: justify},

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evert Vedung | REPED</title>
-    <link>http://example.org/author/evert-vedung/</link>
-      <atom:link href="http://example.org/author/evert-vedung/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://reped.com.br/author/evert-vedung/</link>
+      <atom:link href="http://reped.com.br/author/evert-vedung/index.xml" rel="self" type="application/rss+xml" />
     <description>Evert Vedung</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://example.org/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
       <title>Evert Vedung</title>
-      <link>http://example.org/author/evert-vedung/</link>
+      <link>http://reped.com.br/author/evert-vedung/</link>
     </image>
     
     <item>
       <title>Avaliação de Políticas Públicas e Programas Governamentais: fundamentos e modelos</title>
-      <link>http://example.org/publication/2021livro_pedone_vedung/</link>
+      <link>http://reped.com.br/publication/2021livro_pedone_vedung/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://example.org/publication/2021livro_pedone_vedung/</guid>
+      <guid>http://reped.com.br/publication/2021livro_pedone_vedung/</guid>
       <description>&lt;!--
 
 
