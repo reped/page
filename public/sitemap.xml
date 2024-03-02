@@ -122,6 +122,18 @@
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://reped.com.br/tag/eventos/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/project/evento/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/project/evento/example/</loc>
+    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://reped.com.br/tag/aquisicao-de-defesa/</loc>
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -824,9 +836,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://reped.com.br/institution/people/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/project/evento/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://reped.com.br/institution/instituicoes/</loc>

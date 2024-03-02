@@ -259,6 +259,55 @@ h3,h4,h5,h6{
     </item>
     
     <item>
+      <title>II Workshop Internacional de Defesa</title>
+      <link>http://reped.com.br/project/evento/example/</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/project/evento/example/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 18px;
+    font-size: 20px;  border-left: 5px solid #c7b388;
+}
+
+
+&lt;/style&gt; 
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt; &lt;br&gt;
+&lt;strong&gt;Local:&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Padrões de transferência de tecnologia em aquisições de defesa no Brasil</title>
       <link>http://reped.com.br/publication/2021artigo_correa_urbina/</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
