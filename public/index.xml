@@ -2125,12 +2125,7 @@ h3,h4,h5,h6{
       <link>http://reped.com.br/project/midia/external-project/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       <guid>http://reped.com.br/project/midia/external-project/</guid>
-      <description>
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-  &lt;iframe src=&#34;https://www.youtube.com/embed/qXiClSyw1KM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;style type=&#34;text/css&#34;&gt;
+      <description>&lt;style type=&#34;text/css&#34;&gt;
 body {text-align: justify},
 td {
    font-size: 15px;
@@ -2151,7 +2146,13 @@ h3,h4,h5,h6{
   font-size: 18px;
 }
 &lt;/style&gt;
-&lt;p&gt;O professor da Universidade Estadual de Campinas (Unicamp), Marcos Barbieri, especialista na área da indústria Aeroespacial e de Defesa, oferece insights sobre a contemporaneidade dos principais projetos estratégicos do Brasil, incluindo o submarino nuclear, Grippen NG, KC-390, entre outros.&lt;/p&gt;
+&lt;br&gt;
+&lt;p&gt;O professor Marcos Barbieri, da Universidade Estadual de Campinas (UNICAMP), especialista na área da indústria Aeroespacial e de Defesa, participou de uma entrevista conduzida pelo jornalista Fausto de Oliveira, durante a qual abordou a atualidade dos principais projetos estratégicos do Brasil, englobando o submarino nuclear, o Grippen NG, o KC-390, entre outros.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/qXiClSyw1KM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
     </item>
     
