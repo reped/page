@@ -70,18 +70,6 @@
     <lastmod>2023-01-04T18:59:14-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://reped.com.br/tag/eventos/</loc>
-    <lastmod>2023-01-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/project/evento/</loc>
-    <lastmod>2023-01-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/project/evento/seminario/</loc>
-    <lastmod>2023-01-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://reped.com.br/modelo_publicacao/</loc>
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -134,14 +122,6 @@
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://reped.com.br/project/evento/example/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/project/evento/eventos-project/</loc>
-    <lastmod>2021-12-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://reped.com.br/tag/aquisicao-de-defesa/</loc>
     <lastmod>2021-12-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -182,7 +162,7 @@
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://reped.com.br/author/william-de-sousa-moreira/</loc>
+    <loc>http://reped.com.br/author/william-moreira/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -410,6 +390,10 @@
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://reped.com.br/author/patricia-matos/</loc>
+    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://reped.com.br/publication/2021caplivro_ferreira_matos/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -630,7 +614,7 @@
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://reped.com.br/author/josiane/</loc>
+    <loc>http://reped.com.br/author/josiane-francelino/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -666,10 +650,6 @@
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://reped.com.br/post/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://reped.com.br/tag/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -684,10 +664,6 @@
   </url><url>
     <loc>http://reped.com.br/tag/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/post/20-12-02-icml-best-paper/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://reped.com.br/author/gunther-rudzit/</loc>
@@ -708,10 +684,6 @@
   </url><url>
     <loc>http://reped.com.br/publication/2020artigo_leske_santos/</loc>
     <lastmod>2020-11-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/post/copyof20-12-02-icml-best-paper/</loc>
-    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://reped.com.br/publication/2020livro_biancarelli_hiratuka_sarti/</loc>
@@ -751,10 +723,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://reped.com.br/project/outros/20-12-01-wowchemy-prize/</loc>
-    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/project/midia/internal-project/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -854,6 +822,10 @@
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://reped.com.br/author/william-de-sousa-moreira/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://reped.com.br/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -864,6 +836,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://reped.com.br/institution/people/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/project/evento/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://reped.com.br/institution/instituicoes/</loc>
