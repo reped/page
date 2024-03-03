@@ -2,19 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://reped.com.br/tag/eventos/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/project/evento/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/project/evento/example/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/project/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/tags/</loc>
+    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://reped.com.br/modelo_evento/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://reped.com.br/tag/evento/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/tags/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -59,10 +75,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://reped.com.br/midia/</loc>
-    <lastmod>2023-01-04T18:59:14-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/project/</loc>
     <lastmod>2023-01-04T18:59:14-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -120,18 +132,6 @@
   </url><url>
     <loc>http://reped.com.br/author/thiago-caliari/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/tag/eventos/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/project/evento/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/project/evento/example/</loc>
-    <lastmod>2022-01-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://reped.com.br/tag/aquisicao-de-defesa/</loc>
