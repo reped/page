@@ -5,12 +5,53 @@
     <link>http://reped.com.br/author/thiago-caliari/</link>
       <atom:link href="http://reped.com.br/author/thiago-caliari/index.xml" rel="self" type="application/rss+xml" />
     <description>Thiago Caliari</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Sat, 09 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://reped.com.br/author/thiago-caliari/avatar_hu4db83f2c341baa21edc0be7d98d1f4c6_28735_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Thiago Caliari</title>
       <link>http://reped.com.br/author/thiago-caliari/</link>
     </image>
+    
+    <item>
+      <title>Prospecção de Patentes e Tendências Tecnológicas em Aeronaves Não Tripuladas de Reconhecimento, Observação e Combate</title>
+      <link>http://reped.com.br/publication/2023artigocharles_ligia_thiago/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/publication/2023artigocharles_ligia_thiago/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+#blockquote {
+#    padding: 10px 20px;
+#    margin: 0 0 20px;
+#    font-size: 14px;
+#    border-left: 5px solid #ffd700;
+#}
+
+
+&lt;/style&gt;
+&lt;p&gt;Acesse &lt;a href=&#34;https://rest.uff.br/index.php/rest/article/view/281&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INEST&lt;/a&gt; para mais informações.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An empirical model of fleet modernization: On the relationship between market concentration and innovation adoption by airlines</title>
