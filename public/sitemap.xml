@@ -2,6 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://reped.com.br/publication-type/2/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/authors/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/author/cairo-humberto-da-cruz-sousa/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/author/cassio-garcia-ribeiro/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/publication/2024artigo_ribeiro_ferreira_souza/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/author/marcos-barbieri/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/publication/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/publication_types/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/publication-type/5/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/author/ariela-leske/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/publication/2024livro_thauan_leske/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://reped.com.br/author/thauan-santos/</loc>
+    <lastmod>2024-09-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://reped.com.br/tag/eventos/</loc>
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -18,10 +70,6 @@
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://reped.com.br/</loc>
-    <lastmod>2024-04-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://reped.com.br/tags/</loc>
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -35,10 +83,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://reped.com.br/post/2023-01-05_barbieri/</loc>
-    <lastmod>2023-01-05T09:18:23-03:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/authors/</loc>
     <lastmod>2023-01-05T09:18:23-03:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -86,14 +130,6 @@
     <lastmod>2022-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://reped.com.br/publication-type/2/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/publication_types/</loc>
-    <lastmod>2022-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://reped.com.br/author/charles-souza/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -131,10 +167,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://reped.com.br/tag/prospeccao-tecnologica/</loc>
-    <lastmod>2022-07-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/publication/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -526,10 +558,6 @@
     <lastmod>2021-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://reped.com.br/publication-type/5/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://reped.com.br/publication/2021artigo_sarti_hiratuka/</loc>
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -638,15 +666,7 @@
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://reped.com.br/author/thauan-santos/</loc>
-    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://reped.com.br/tag/aeronaves-remotamente-pilotadas/</loc>
-    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://reped.com.br/author/ariela-leske/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
