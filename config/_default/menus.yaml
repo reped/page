@@ -1,0 +1,56 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+main:
+  - name:
+    pre: <i class='fa-solid fa-house-flag'></i>
+    url: #welcome
+    weight: 10
+  - name: Posts
+   #parent: prodefesa
+    url: post
+    weight: 20   
+  - name: Publicações
+    url: publication
+    weight: 30
+  - name: Linhas de pesquisa
+    url: linha
+    weight: 40  
+ # - name: Colaboradores
+ #   url: people
+ #   weight: 50
+#-------------------------------------------------------------------------------    
+  - name: Institucional
+    identifier: institution
+    weight: 50
+  - name: Sobre nós 
+    url: institution/projeto
+    weight: 10 
+    parent: institution
+#  - name: Instituições 
+#    PageRef: institution/instituicoes
+#    weight: 20 
+#    parent: institution
+  - name: Colaboradores
+    PageRef: institution/people
+    weight: 30
+    parent: institution
+#-------------------------------------------------------------------------------    
+#  - name: Contato 
+#    url: contact
+#$    weight: 60
+#  - name: <i class="fa-brands fa-linkedin"></i>    
+#url: https://www.linkedin.com/company/pro-defesa/  
+#    weight: 70  
+#  - name: <i class="fa-brands fa-twitter"></i>   
+#    url: https://twitter.com/reped_oficial  
+#    weight: 80
+#  - name: <i class="fa-brands fa-facebook"></i>   
+#    weight: 90
+#    url: https://www.facebook.com/profile.php?id=100080583128412  
+#  - name: <i class="fa-brands fa-instagram"></i>   
+#    weight: 90
+#    url: https://instagram.com/reped_oficial  
+ 
+  

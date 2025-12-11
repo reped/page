@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charles Souza | REPED</title>
+    <link>https://prodefesa.netlify.app/author/charles-souza/</link>
+      <atom:link href="https://prodefesa.netlify.app/author/charles-souza/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charles Souza</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://prodefesa.netlify.app/author/charles-souza/avatar_hu22551aab299e2b4a1f889e4b81cc06e3_530272_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Charles Souza</title>
+      <link>https://prodefesa.netlify.app/author/charles-souza/</link>
+    </image>
+    
+    <item>
+      <title>Prospecção de Patentes e Tendências Tecnológicas em Veículos Aéreos Não Tripulados</title>
+      <link>https://prodefesa.netlify.app/publication/2020charles_mayara/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://prodefesa.netlify.app/publication/2020charles_mayara/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+#blockquote {
+#    padding: 10px 20px;
+#    margin: 0 0 20px;
+#    font-size: 14px;
+#    border-left: 5px solid #ffd700;
+#}
+
+
+&lt;/style&gt;
+&lt;p&gt;Acesse &lt;a href=&#34;https://www.sige.ita.br/edicoes-anteriores/2020/st/ST_02_3.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIGE 2020&lt;/a&gt; para mais informações.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+---
+title: 'A Defesa Nacional no Plano Plurianual 2016-2019: uma avaliação a partir dos projetos estratégicos'
+#author: 
+date: '2021-04-01'
+slug: 
+categories: []
+tags: []
+authors: 
+  - Luís Felipe Giesteira
+  - patricia
+  - Thiago Borne Ferreira
+author_notes:
+  - ''
+  - 'UNIFA'
+  - ''    
+doi: ''
+publishDate: ''
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types:
+  - '2'
+publication: '*Boletim de Análise Político-Institucional*'
+publication_short: ''
+abstract: 'A defesa nacional é uma atividade estatal cercada de polêmica, complexidade e hermetismo. Apesar de constituir função basilar do Estado, mesmo pesquisadores experientes encontram dificuldades em tratá-la de forma objetiva e rigorosa. Como política pública, é refratária aos métodos de avaliação tradicionais. Não é trivial avaliar o impacto ou definir a clientela da política de defesa e não é raro que a ampliação do escopo das atividades militares para áreas com públicos mais facilmente delimitáveis seja vista como inadequada ou gere desconfiança, sobretudo em países com histórico de ativa presença militar interna como é o caso do Brasil.'
+summary: ''
+featured: no
+url_pdf: 
+url_code: ~
+url_dataset: ~
+url_poster: ~
+url_project: ~
+url_slides: ~
+url_source: ~
+url_video: ~
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+slides: ''
+---
+
+
+<style type="text/css">
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+#blockquote {
+#    padding: 10px 20px;
+#    margin: 0 0 20px;
+#    font-size: 14px;
+#    border-left: 5px solid #ffd700;
+#}
+
+
+</style>
+
+Acesse o [Boletim de Análise Político-Institucional](http://repositorio.ipea.gov.br/bitstream/11058/10596/1/bapi_28_defesa.pdf) para mais informações.

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>evento | REPED</title>
+    <link>http://reped.com.br/tag/evento/</link>
+      <atom:link href="http://reped.com.br/tag/evento/index.xml" rel="self" type="application/rss+xml" />
+    <description>evento</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <title>evento</title>
+      <link>http://reped.com.br/tag/evento/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://reped.com.br/modelo_evento/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/modelo_evento/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+ 
+
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 18px;
+    border-left: 5px solid #c7b388;
+}
+
+&lt;/style&gt; 
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt; &lt;br&gt;
+&lt;strong&gt;Local:&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thiago Borne Ferreira | REPED</title>
+    <link>http://reped.com.br/author/thiago-borne-ferreira/</link>
+      <atom:link href="http://reped.com.br/author/thiago-borne-ferreira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thiago Borne Ferreira</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <title>Thiago Borne Ferreira</title>
+      <link>http://reped.com.br/author/thiago-borne-ferreira/</link>
+    </image>
+    
+    <item>
+      <title>A Defesa Nacional e os Programas Estratégicos de Defesa do PPA 2016-2019</title>
+      <link>http://reped.com.br/publication/2021artigo_giesteira_matos_a/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/publication/2021artigo_giesteira_matos_a/</guid>
+      <description>
+
+
+&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+#blockquote {
+#    padding: 10px 20px;
+#    margin: 0 0 20px;
+#    font-size: 14px;
+#    border-left: 5px solid #ffd700;
+#}
+
+
+&lt;/style&gt;
+&lt;p&gt;Acesse a publicação do &lt;a href=&#34;https://www.ipea.gov.br/portal/images/stories/PDFs/TDs/td_2672substuicao.pdf&#34;&gt;Instituto de Pesquisa Econômica Aplicada&lt;/a&gt; para mais informações.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Defesa Nacional no Plano Plurianual 2016-2019: uma avaliação a partir dos projetos estratégicos</title>
+      <link>http://reped.com.br/publication/2021artigo_giesteira_matos_ferreira/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/publication/2021artigo_giesteira_matos_ferreira/</guid>
+      <description>
+
+
+&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+#blockquote {
+#    padding: 10px 20px;
+#    margin: 0 0 20px;
+#    font-size: 14px;
+#    border-left: 5px solid #ffd700;
+#}
+
+
+&lt;/style&gt;
+&lt;p&gt;Acesse o &lt;a href=&#34;http://repositorio.ipea.gov.br/bitstream/11058/10596/1/bapi_28_defesa.pdf&#34;&gt;Boletim de Análise Político-Institucional&lt;/a&gt; para mais informações.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

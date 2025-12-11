@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linhas de pesquisa | REPED</title>
+    <link>https://prodefesa.netlify.app/linha/</link>
+      <atom:link href="https://prodefesa.netlify.app/linha/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linhas de pesquisa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language>
+    <image>
+      <url>https://prodefesa.netlify.app/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <title>Linhas de pesquisa</title>
+      <link>https://prodefesa.netlify.app/linha/</link>
+    </image>
+    
+  </channel>
+</rss>

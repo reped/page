@@ -1,0 +1,113 @@
+---
+title: 'Diálogos na cooperação Sul-Sul (1995-2016)'
+authors:
+  - Alexandre Rocha Violante  
+  - Etiene Villela Marroni  
+  - Luiz Pedone  
+author_notes:
+  - ''
+  - ''
+  - 'UFF'
+date: '2021-04-01T00:00:00Z'
+doi: ''
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2021-04-01T00:00:00Z'
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['5']
+
+# Publication name and optional abbreviated publication name.
+publication: '*Editora UFPel*'
+publication_short: ''
+
+abstract: 'O arcabouço teórico das Relações Internacionais sobre a cooperação internacional baseia-se em diversas e distintas análises, distribuídas em várias linhas de pensamento. Pode-se considerar a cooperação brasileira por preceitos realistas, institucionais-liberais e construtivistas. Realista, ao perceber que o Estado intenciona assegurar maior inserção, poder e influência no tabuleiro geopolítico das Relações Internacionais. Institucional-liberal, ao demonstrar que o poder e a circulação de 
+informação, por meio das instituições, são as principais variáveis para a compreensão e manipulação desse sistema. Construtivista, ao relacionar a cooperação com imperativos humanitários e compromissos éticos, utilizando-se do *soft power* como poder comportamental, 
+fundamentando-se nas ideologias e nos aspectos culturais manifestos pelos Estados.'
+
+# Summary. An optional shortened abstract.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+slug: 
+categories: []
+tags:
+featured: false
+
+# links:
+# - name: ""
+#   url: ""
+url_pdf: 
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ''
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides:
+---
+<!--
+{{% callout note %}}
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+
+-->
+
+<style type="text/css">
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+ 
+
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 18px;
+    border-left: 5px solid #c7b388;
+}
+
+</style> 
+
+Acesse a [Editora UFPel](https://wp.ufpel.edu.br/cedepem/files/2021/10/Dialogos_na_Cooperacao_Sul-Sul_ebook.pdf) para mais informações.

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | REPED</title>
+    <link>https://prodefesa.netlify.app/authors/</link>
+      <atom:link href="https://prodefesa.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://prodefesa.netlify.app/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <title>Authors</title>
+      <link>https://prodefesa.netlify.app/authors/</link>
+    </image>
+    
+  </channel>
+</rss>

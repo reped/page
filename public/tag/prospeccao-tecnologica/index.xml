@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prospecção Tecnológica | REPED</title>
+    <link>http://reped.com.br/tag/prospeccao-tecnologica/</link>
+      <atom:link href="http://reped.com.br/tag/prospeccao-tecnologica/index.xml" rel="self" type="application/rss+xml" />
+    <description>Prospecção Tecnológica</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Sat, 09 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <title>Prospecção Tecnológica</title>
+      <link>http://reped.com.br/tag/prospeccao-tecnologica/</link>
+    </image>
+    
+    <item>
+      <title>Prospecção de Patentes e Tendências Tecnológicas em Aeronaves Não Tripuladas de Reconhecimento, Observação e Combate</title>
+      <link>http://reped.com.br/publication/2023artigocharles_ligia_thiago/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/publication/2023artigocharles_ligia_thiago/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+#blockquote {
+#    padding: 10px 20px;
+#    margin: 0 0 20px;
+#    font-size: 14px;
+#    border-left: 5px solid #ffd700;
+#}
+
+
+&lt;/style&gt;
+&lt;p&gt;Acesse &lt;a href=&#34;https://rest.uff.br/index.php/rest/article/view/281&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;INEST&lt;/a&gt; para mais informações.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Prospecção de Patentes e Tendências Tecnológicas em Veículos Aéreos Não Tripulados</title>
+      <link>http://reped.com.br/publication/2020charles_mayara/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/publication/2020charles_mayara/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+#blockquote {
+#    padding: 10px 20px;
+#    margin: 0 0 20px;
+#    font-size: 14px;
+#    border-left: 5px solid #ffd700;
+#}
+
+
+&lt;/style&gt;
+&lt;p&gt;Acesse &lt;a href=&#34;https://www.sige.ita.br/edicoes-anteriores/2020/st/ST_02_3.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIGE 2020&lt;/a&gt; para mais informações.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

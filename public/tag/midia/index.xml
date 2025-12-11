@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mídia | REPED</title>
+    <link>http://reped.com.br/tag/midia/</link>
+      <atom:link href="http://reped.com.br/tag/midia/index.xml" rel="self" type="application/rss+xml" />
+    <description>mídia</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <title>mídia</title>
+      <link>http://reped.com.br/tag/midia/</link>
+    </image>
+    
+    <item>
+      <title>Entrevista do professor Marcos Barbieri para a Revista Sputnik</title>
+      <link>http://reped.com.br/project/midia/gripen/</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/project/midia/gripen/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 14px;#    border-left: 5px solid #c7b388;
+}
+
+
+&lt;/style&gt; 
+&lt;p&gt;Em dezembro de 2022, o Professor Marcos Barbieri participou de uma entrevista concedida à Revista Sputnik Brasil, abordando o início das operações do caça Saab F-39 Gripen. Durante a entrevista, o especialista analisou o avanço tecnológico da Força Aérea Brasileira (FAB) com a introdução dessa aeronave e destacou a relevância da parceria estabelecida entre o Brasil e a empresa sueca para o desenvolvimento da indústria de defesa nacional. A entrevista completa pode ser acessada através deste &lt;a href=&#34;https://sputniknewsbr.com.br/20221226/mais-moderna-aeronave-de-combate-em-operacao-na-america-latina-diz-especialista-sobre-gripen-ng-26644535.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Entrevista do professor Marcos Barbieri para o jornalista Fausto Oliveira</title>
+      <link>http://reped.com.br/project/midia/external-project/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/project/midia/external-project/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+&lt;/style&gt;
+&lt;br&gt;
+&lt;p&gt;O professor Marcos Barbieri, da Universidade Estadual de Campinas (UNICAMP), especialista na área da indústria Aeroespacial e de Defesa, participou de uma entrevista conduzida pelo jornalista Fausto de Oliveira, durante a qual abordou a atualidade dos principais projetos estratégicos do Brasil, englobando o submarino nuclear, o Grippen NG, o KC-390, entre outros.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/qXiClSyw1KM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

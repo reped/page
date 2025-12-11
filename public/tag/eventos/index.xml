@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eventos | REPED</title>
+    <link>http://reped.com.br/tag/eventos/</link>
+      <atom:link href="http://reped.com.br/tag/eventos/index.xml" rel="self" type="application/rss+xml" />
+    <description>eventos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Wed, 10 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <title>eventos</title>
+      <link>http://reped.com.br/tag/eventos/</link>
+    </image>
+    
+    <item>
+      <title>I SENED</title>
+      <link>http://reped.com.br/project/evento/example/</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/project/evento/example/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 18px;
+    font-size: 20px;  border-left: 5px solid #c7b388;
+}
+
+
+&lt;/style&gt; 
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt; 10 de Abril de 2024 &lt;br&gt;
+&lt;strong&gt;Local:&lt;/strong&gt; &lt;a href=&#34;https://www.economia.unicamp.br/como-chegar&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Instituto de Economia da UNICAMP&lt;/a&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;No dia 10 de abril de 2024, o Instituto de Economia da UNICAMP sediou o Primeiro Seminário Nacional de Economia de Defesa, reunindo especialistas, pesquisadores e profissionais para discutir questões essenciais sobre o setor de Defesa e seu impacto no desenvolvimento econômico. O evento abordou temas fundamentais como o orçamento de defesa, a base industrial de defesa, além da relação entre ciência, tecnologia e defesa. O seminário proporcionou uma oportunidade valiosa para docentes, pesquisadores e estudantes aprofundarem seus conhecimentos nessas áreas estratégicas. A seguir, apresentamos os vídeos com os principais temas discutidos no seminário:&lt;/p&gt;
+&lt;!---
+&lt;table style=&#34;border-collapse:collapse;border-spacing:0&#34; class=&#34;tg&#34;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&#34;background-color:#39566a;border-color:inherit;border-style:solid;border-width:1px;color:#ffffff;font-family:Arial, sans-serif;font-size:15px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34; colspan=&#34;2&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Programação&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&#34;background-color:#e7decb;border-color:inherit;border-style:solid;border-width:1px;color:#39566a;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Manhã&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;background-color:#E7DECB;border-color:black;border-style:solid;border-width:1px;color:#39566A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Tarde&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;08h30-09h00: Credenciamento&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;13h00-14h:00: Horário para almoço&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;09h00-10h00: Abertura&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;14h00-15h30: 2ª Mesa de Discussão &lt;br&gt; BASE INDUSTRIAL DE DEFESA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;Reitoria da UNICAMP&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. Marcos Barbieri (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;Diretor do Instituto de Economia: Dr. Célio Hiratuka&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Dr. Roberto Gallo (ABIMDE)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:#39566a;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador - Projeto: Dr. Marcos Barbieri (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. Thiago Caliari (ITA)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Presidente da ABIMDE: Dr. Roberto Gallo&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedora 03: Dra. Erika Ribeiro (ESCOLA NAVAL)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;10h00-11h00: Palestra de Abertura&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;15h30-16h30: Lançamento do Livro e do Site&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Prof. Dr. Antonio Fonfría Mesa &lt;/span&gt;&lt;br&gt;&lt;span style=&#34;font-style:italic&#34;&gt; Universidad Complutense de Madrid (UCM)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;16h30-18h00: 3ª Mesa de Discussão &lt;br&gt; CIÊNCIA, TECNOLOGIA E DEFESA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;11h00-11h30: Coffee break&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. William S. Moreira (EGN)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;11h30-13h00: 1ª Mesa de Discussão &lt;br&gt;ORÇAMENTO DE DEFESA&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Ms. William Rospendowski (FINEP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. Márcio Rocha (UFF)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. José Augusto de Moura  (EGN/UFF)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Dr. Luís Felipe Giesteira (MDIC)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 03: Dr. Mariano Laplane (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. Peterson Silva (ESD/UNIFA)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;18h00-18h30: cerimônia de encerramento&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedora 03: Dra. Patrícia Matos (UNIFA)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+--&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Economia de la defensa - hoy y en futuro, por Antonio Fonfría&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/G9zXe3rYIMI&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Mesa 1 &amp;ndash; Orçamento de Defesa&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/u8htyzUUxvQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Mesa 2 &amp;ndash; Base Industrial de Defesa&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/-91fZekNB60&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Mesa 3 &amp;ndash; Ciência Tecnologia e Defesa&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/aP424j4D7YM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Webinar a Defesa Nacional e os Programas Estratégicos de Defesa no PPA 2016-2019</title>
+      <link>http://reped.com.br/project/evento/webinar4/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/project/evento/webinar4/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 18px;
+    font-size: 20px;  border-left: 5px solid #c7b388;
+}
+
+
+&lt;/style&gt; 
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;  30 de agosto de 2021 &lt;br&gt;
+&lt;strong&gt;Local:&lt;/strong&gt; On-line &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;No dia 30 de agosto de 2021, foi realizado o &lt;strong&gt;Webinar A Defesa Nacional e os Programas Estratégicos de Defesa no PPA 2016-2019&lt;/strong&gt;. O evento, promovido pelo IPEA e Pró-Defesa IV (CAPES/MD), aconteceu de forma online e contou com a participação de especialistas das instituições UNIFA, ESG e EGN.&lt;/p&gt;
+&lt;!---
+&lt;table style=&#34;border-collapse:collapse;border-spacing:0&#34; class=&#34;tg&#34;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&#34;background-color:#39566a;border-color:inherit;border-style:solid;border-width:1px;color:#ffffff;font-family:Arial, sans-serif;font-size:15px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34; colspan=&#34;2&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Programação&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&#34;background-color:#e7decb;border-color:inherit;border-style:solid;border-width:1px;color:#39566a;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Manhã&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;background-color:#E7DECB;border-color:black;border-style:solid;border-width:1px;color:#39566A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Tarde&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;08h30-09h00: Credenciamento&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;13h00-14h:00: Horário para almoço&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;09h00-10h00: Abertura&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;14h00-15h30: 2ª Mesa de Discussão &lt;br&gt; BASE INDUSTRIAL DE DEFESA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;Reitoria da UNICAMP&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. Marcos Barbieri (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;Diretor do Instituto de Economia: Dr. Célio Hiratuka&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Dr. Roberto Gallo (ABIMDE)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:#39566a;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador - Projeto: Dr. Marcos Barbieri (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. Thiago Caliari (ITA)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Presidente da ABIMDE: Dr. Roberto Gallo&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedora 03: Dra. Erika Ribeiro (ESCOLA NAVAL)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;10h00-11h00: Palestra de Abertura&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;15h30-16h30: Lançamento do Livro e do Site&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Prof. Dr. Antonio Fonfría Mesa &lt;/span&gt;&lt;br&gt;&lt;span style=&#34;font-style:italic&#34;&gt; Universidad Complutense de Madrid (UCM)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;16h30-18h00: 3ª Mesa de Discussão &lt;br&gt; CIÊNCIA, TECNOLOGIA E DEFESA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;11h00-11h30: Coffee break&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. William S. Moreira (EGN)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;11h30-13h00: 1ª Mesa de Discussão &lt;br&gt;ORÇAMENTO DE DEFESA&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Ms. William Rospendowski (FINEP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. Márcio Rocha (UFF)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. José Augusto de Moura  (EGN/UFF)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Dr. Luís Felipe Giesteira (MDIC)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 03: Dr. Mariano Laplane (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. Peterson Silva (ESD/UNIFA)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;18h00-18h30: cerimônia de encerramento&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedora 03: Dra. Patrícia Matos (UNIFA)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+--&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Evento apresentou o trabalho realizado pelo Dr. Luís Felipe Giesteira (IPEA - Coordenador), Profa. Dra. Patrícia de Oliveira Matos (UNIFA) e Ms. Thiago Borne Ferreira (UFRGS) e foi debatido pelo Prof. Dr. Thauan Santos (EGN) e Profa. Dra. Ariela Diniz de Cordeiro Leske (ESG).&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/7IHuyNDCpi8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1º Webinar Economia de Defesa no Brasil, Pró-Defesa IV</title>
+      <link>http://reped.com.br/project/evento/webinar3/</link>
+      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/project/evento/webinar3/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 18px;
+    font-size: 20px;  border-left: 5px solid #c7b388;
+}
+
+
+&lt;/style&gt; 
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;  28 de maio, 11 de junho e 25 de junho de 2021 &lt;br&gt;
+&lt;strong&gt;Local:&lt;/strong&gt; On-line &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nos dias 28 de maio, 11 de junho e 25 de junho de 2021, foi realizado o &lt;strong&gt;1º Webinar Economia de Defesa no Brasil: Pró-Defesa IV&lt;/strong&gt;, promovido pelo IE/UNICAMP e Pró-Defesa IV (CAPES/MD), com apoio institucional do DEPFIN/SEPROD/MD. O evento ocorreu de forma online e contou com a ativa participação das instituições associadas ao projeto: ESG, EGN, UNIFA, UFF e ITA.&lt;/p&gt;
+&lt;p&gt;Coordenado pelo Prof. Dr. Marcos José Barbieri Ferreira (UNICAMP), o webinar reuniu especialistas para debater temas estratégicos da economia de defesa no Brasil. A sessão de abertura teve a presença do Prof. Dr. Célio Hiratuka (UNICAMP), do Major-Brigadeiro Intendente Marcos Aurélio Pereira Silva (SEPROD/MD) e do Coronel Wagner Araújo (SEPROD/MD).&lt;/p&gt;
+&lt;!---
+&lt;table style=&#34;border-collapse:collapse;border-spacing:0&#34; class=&#34;tg&#34;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&#34;background-color:#39566a;border-color:inherit;border-style:solid;border-width:1px;color:#ffffff;font-family:Arial, sans-serif;font-size:15px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34; colspan=&#34;2&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Programação&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&#34;background-color:#e7decb;border-color:inherit;border-style:solid;border-width:1px;color:#39566a;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Manhã&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;background-color:#E7DECB;border-color:black;border-style:solid;border-width:1px;color:#39566A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Tarde&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;08h30-09h00: Credenciamento&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;13h00-14h:00: Horário para almoço&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;09h00-10h00: Abertura&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;14h00-15h30: 2ª Mesa de Discussão &lt;br&gt; BASE INDUSTRIAL DE DEFESA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;Reitoria da UNICAMP&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. Marcos Barbieri (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;Diretor do Instituto de Economia: Dr. Célio Hiratuka&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Dr. Roberto Gallo (ABIMDE)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:#39566a;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador - Projeto: Dr. Marcos Barbieri (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. Thiago Caliari (ITA)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Presidente da ABIMDE: Dr. Roberto Gallo&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedora 03: Dra. Erika Ribeiro (ESCOLA NAVAL)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;10h00-11h00: Palestra de Abertura&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;15h30-16h30: Lançamento do Livro e do Site&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Prof. Dr. Antonio Fonfría Mesa &lt;/span&gt;&lt;br&gt;&lt;span style=&#34;font-style:italic&#34;&gt; Universidad Complutense de Madrid (UCM)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;16h30-18h00: 3ª Mesa de Discussão &lt;br&gt; CIÊNCIA, TECNOLOGIA E DEFESA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;11h00-11h30: Coffee break&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. William S. Moreira (EGN)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;11h30-13h00: 1ª Mesa de Discussão &lt;br&gt;ORÇAMENTO DE DEFESA&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Ms. William Rospendowski (FINEP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. Márcio Rocha (UFF)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. José Augusto de Moura  (EGN/UFF)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Dr. Luís Felipe Giesteira (MDIC)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 03: Dr. Mariano Laplane (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. Peterson Silva (ESD/UNIFA)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;18h00-18h30: cerimônia de encerramento&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedora 03: Dra. Patrícia Matos (UNIFA)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+--&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Primeiro dia (28 de maio de 2021), contou com a participação da UNICAMP (Prof. Dr. Célio Hiratuka), do ITA (Profa. Dra. Ligia Maria Soto Urbina, Prof. Dr. Thiago Caliari, Profa. Dra. Josiane de Araújo Francelino e Ms. Gilberto Möhr Correa) e da ESG (Profa. Dra. Ariela Diniz Cordeiro Leske, Ms. Rafael Morais Lima e Prof. Dr. Carlos Conte)&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/B35xF_Ys_Bw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Segundo dia (11 de junho de 2021) contou com a participação da UNIFA (Profa. Dra. Patrícia de Oliveira Matos e Profa. Dra. Iliane Jesuína Silva Foresti) e da UFF (Prof. Dr. Eurico de Lima Figueiredo, Prof. Dr. Vagner Camilo Alves e Prof. Dr. Márcio Rocha)&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/2Pmy88__kZ0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Terceiro dia (25 de junho de 2021) contou com a participação da EGN (Prof. Dr. William de Sousa Moreira, Profa. Dra. Erika Cristina Barbosa de Almeida Ribeiro, Prof. Dr. José Augusto Abreu de Moura e Prof. Dr. Thauan dos Santo) e da UNICAMP (Prof. Dr. Marcos José Barbieri Ferreira e Prof. Dr. Celso Neris Junior)&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/d1Zs4-zaHsc&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Webinar Relações Internacionais e Projeção de Poder - Indústria Aeroespacial e Aeronáutica, Desafios Atuais</title>
+      <link>http://reped.com.br/project/evento/webinar1/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/project/evento/webinar1/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 18px;
+    font-size: 20px;  border-left: 5px solid #c7b388;
+}
+
+
+&lt;/style&gt; 
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;  5 de outubro de 2020 &lt;br&gt;
+&lt;strong&gt;Local:&lt;/strong&gt; On-line &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;No dia 5 de outubro de 2020, foi realizado o &lt;strong&gt;Webinar Relações Internacionais e Projeção de Poder – Indústria Aeroespacial e Aeronáutica: Desafios Atuais&lt;/strong&gt;. O evento, promovido pelo INEST/UFF e Pró-Defesa IV (CAPES/MD), aconteceu de forma online e reuniu especialistas para debater os desafios contemporâneos do setor aeroespacial e aeronáutico no cenário internacional.&lt;/p&gt;
+&lt;!---
+&lt;table style=&#34;border-collapse:collapse;border-spacing:0&#34; class=&#34;tg&#34;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&#34;background-color:#39566a;border-color:inherit;border-style:solid;border-width:1px;color:#ffffff;font-family:Arial, sans-serif;font-size:15px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34; colspan=&#34;2&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Programação&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&#34;background-color:#e7decb;border-color:inherit;border-style:solid;border-width:1px;color:#39566a;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Manhã&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;background-color:#E7DECB;border-color:black;border-style:solid;border-width:1px;color:#39566A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Tarde&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;08h30-09h00: Credenciamento&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;13h00-14h:00: Horário para almoço&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;09h00-10h00: Abertura&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;14h00-15h30: 2ª Mesa de Discussão &lt;br&gt; BASE INDUSTRIAL DE DEFESA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;Reitoria da UNICAMP&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. Marcos Barbieri (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;Diretor do Instituto de Economia: Dr. Célio Hiratuka&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Dr. Roberto Gallo (ABIMDE)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:#39566a;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador - Projeto: Dr. Marcos Barbieri (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. Thiago Caliari (ITA)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Presidente da ABIMDE: Dr. Roberto Gallo&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedora 03: Dra. Erika Ribeiro (ESCOLA NAVAL)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;10h00-11h00: Palestra de Abertura&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;15h30-16h30: Lançamento do Livro e do Site&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Prof. Dr. Antonio Fonfría Mesa &lt;/span&gt;&lt;br&gt;&lt;span style=&#34;font-style:italic&#34;&gt; Universidad Complutense de Madrid (UCM)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;16h30-18h00: 3ª Mesa de Discussão &lt;br&gt; CIÊNCIA, TECNOLOGIA E DEFESA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;11h00-11h30: Coffee break&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. William S. Moreira (EGN)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;11h30-13h00: 1ª Mesa de Discussão &lt;br&gt;ORÇAMENTO DE DEFESA&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Ms. William Rospendowski (FINEP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. Márcio Rocha (UFF)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. José Augusto de Moura  (EGN/UFF)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Dr. Luís Felipe Giesteira (MDIC)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 03: Dr. Mariano Laplane (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. Peterson Silva (ESD/UNIFA)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;18h00-18h30: cerimônia de encerramento&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedora 03: Dra. Patrícia Matos (UNIFA)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+--&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Coordenação do webinar: Prof. Dr. Marcio Rocha (UFF). Palestrantes: Prof. Dr. Marcos José Barbieri Ferreira (UNICAMP) e Profa. Dra. Patrícia Oliveira Matos (UNIFA)&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/M2bfzVHmZcw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Webinar Perspectivas da Indústria Aeronáutica em Tempos de Crise</title>
+      <link>http://reped.com.br/project/evento/webinar2/</link>
+      <pubDate>Tue, 02 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/project/evento/webinar2/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 18px;
+    font-size: 20px;  border-left: 5px solid #c7b388;
+}
+
+
+&lt;/style&gt; 
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;  2 de junho de 2020 &lt;br&gt;
+&lt;strong&gt;Local:&lt;/strong&gt; On-line &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;No dia 2 de junho de 2020, foi realizado o &lt;strong&gt;Webinar Perspectivas da Indústria Aeronáutica em Tempos de Crise&lt;/strong&gt;. O evento, promovido pelo IE/UNICAMP, ABEIN e Pró-Defesa IV (CAPES/MD), aconteceu de forma online e reuniu especialistas para discutir os desafios e oportunidades do setor aeronáutico diante de cenários de crise.&lt;/p&gt;
+&lt;!---
+&lt;table style=&#34;border-collapse:collapse;border-spacing:0&#34; class=&#34;tg&#34;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&#34;background-color:#39566a;border-color:inherit;border-style:solid;border-width:1px;color:#ffffff;font-family:Arial, sans-serif;font-size:15px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34; colspan=&#34;2&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Programação&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&#34;background-color:#e7decb;border-color:inherit;border-style:solid;border-width:1px;color:#39566a;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Manhã&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;background-color:#E7DECB;border-color:black;border-style:solid;border-width:1px;color:#39566A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Tarde&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;08h30-09h00: Credenciamento&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;13h00-14h:00: Horário para almoço&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;09h00-10h00: Abertura&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;14h00-15h30: 2ª Mesa de Discussão &lt;br&gt; BASE INDUSTRIAL DE DEFESA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;Reitoria da UNICAMP&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. Marcos Barbieri (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;Diretor do Instituto de Economia: Dr. Célio Hiratuka&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Dr. Roberto Gallo (ABIMDE)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:#39566a;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador - Projeto: Dr. Marcos Barbieri (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. Thiago Caliari (ITA)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Presidente da ABIMDE: Dr. Roberto Gallo&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedora 03: Dra. Erika Ribeiro (ESCOLA NAVAL)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;10h00-11h00: Palestra de Abertura&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;15h30-16h30: Lançamento do Livro e do Site&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Prof. Dr. Antonio Fonfría Mesa &lt;/span&gt;&lt;br&gt;&lt;span style=&#34;font-style:italic&#34;&gt; Universidad Complutense de Madrid (UCM)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;16h30-18h00: 3ª Mesa de Discussão &lt;br&gt; CIÊNCIA, TECNOLOGIA E DEFESA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;11h00-11h30: Coffee break&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. William S. Moreira (EGN)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;11h30-13h00: 1ª Mesa de Discussão &lt;br&gt;ORÇAMENTO DE DEFESA&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Ms. William Rospendowski (FINEP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. Márcio Rocha (UFF)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. José Augusto de Moura  (EGN/UFF)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Dr. Luís Felipe Giesteira (MDIC)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 03: Dr. Mariano Laplane (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. Peterson Silva (ESD/UNIFA)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;18h00-18h30: cerimônia de encerramento&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedora 03: Dra. Patrícia Matos (UNIFA)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+--&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Membros do projeto palestrantes: Prof. Dr. Marcos José Barbieri Ferreira (UNICAMP) e Prof. Dr. Thiago Caliari (ITA)&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/sNaIh-LXWrU&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projetos Estratégicos e Orçamento de Defesa no Brasil</title>
+      <link>http://reped.com.br/project/evento/projetos/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/project/evento/projetos/</guid>
+      <description>&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 18px;
+    font-size: 20px;  border-left: 5px solid #c7b388;
+}
+
+
+&lt;/style&gt; 
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;  2 e 9 de outubro de 2019 &lt;br&gt;
+&lt;strong&gt;Local:&lt;/strong&gt; On-line &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Nos dias 2 e 9 de outubro de 2019, ocorreu o evento &amp;ldquo;Projetos Estratégicos e Orçamento de Defesa no Brasil&amp;rdquo;, realizado de forma online. Promovido pelo IPEA, IE/UNICAMP e Pró-Defesa IV (CAPES/MD), o evento reuniu especialistas para discutir os desafios e oportunidades no planejamento e financiamento da defesa nacional.&lt;/p&gt;
+&lt;p&gt;Além das instituições organizadoras, o evento contou com o apoio de ESG, UNIFA, UNIVATES, ABIMDE, ABED e Instituto Pandiá Calógeras, fortalecendo o debate sobre políticas estratégicas e orçamento no setor de defesa.&lt;/p&gt;
+&lt;!---
+&lt;table style=&#34;border-collapse:collapse;border-spacing:0&#34; class=&#34;tg&#34;&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&#34;background-color:#39566a;border-color:inherit;border-style:solid;border-width:1px;color:#ffffff;font-family:Arial, sans-serif;font-size:15px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34; colspan=&#34;2&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Programação&lt;/span&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td style=&#34;background-color:#e7decb;border-color:inherit;border-style:solid;border-width:1px;color:#39566a;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Manhã&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;background-color:#E7DECB;border-color:black;border-style:solid;border-width:1px;color:#39566A;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-weight:bold&#34;&gt;Tarde&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;08h30-09h00: Credenciamento&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;13h00-14h:00: Horário para almoço&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;09h00-10h00: Abertura&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;14h00-15h30: 2ª Mesa de Discussão &lt;br&gt; BASE INDUSTRIAL DE DEFESA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;Reitoria da UNICAMP&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. Marcos Barbieri (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;Diretor do Instituto de Economia: Dr. Célio Hiratuka&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Dr. Roberto Gallo (ABIMDE)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:#39566a;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador - Projeto: Dr. Marcos Barbieri (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. Thiago Caliari (ITA)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Presidente da ABIMDE: Dr. Roberto Gallo&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedora 03: Dra. Erika Ribeiro (ESCOLA NAVAL)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;10h00-11h00: Palestra de Abertura&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;15h30-16h30: Lançamento do Livro e do Site&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Prof. Dr. Antonio Fonfría Mesa &lt;/span&gt;&lt;br&gt;&lt;span style=&#34;font-style:italic&#34;&gt; Universidad Complutense de Madrid (UCM)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;16h30-18h00: 3ª Mesa de Discussão &lt;br&gt; CIÊNCIA, TECNOLOGIA E DEFESA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;11h00-11h30: Coffee break&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. William S. Moreira (EGN)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;11h30-13h00: 1ª Mesa de Discussão &lt;br&gt;ORÇAMENTO DE DEFESA&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Ms. William Rospendowski (FINEP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Coordenador: Dr. Márcio Rocha (UFF)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. José Augusto de Moura  (EGN/UFF)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 01: Dr. Luís Felipe Giesteira (MDIC)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-style:italic;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 03: Dr. Mariano Laplane (UNICAMP)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedor 02: Dr. Peterson Silva (ESD/UNIFA)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;18h00-18h30: cerimônia de encerramento&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;span style=&#34;font-style:italic&#34;&gt;Debatedora 03: Dra. Patrícia Matos (UNIFA)&lt;/span&gt;&lt;/td&gt;&lt;td style=&#34;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal&#34;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;
+--&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Primeiro dia (02 de outubro): Dr. José Eduardo Brandão (IPEA – Coordenação), Prof. Dr. Marcos José Barbieri Ferreira (UNICAMP), Dr. Luís Felipe Giesteira (IPEA), Dr. Joasnival Brito Gonçalves (Instituto Pandiá Calógeras), Thiago Borne Ferreira (UNIVATS).&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/Us4LS0akO44&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Segundo dia (09 de outubro): Prof. Dr. Marcos José Barbieri Ferreira (UNICAMP – Coordenação), Profa. Dra. Patrícia de Oliveira Matos (UNIFA), Prof. Dr. Peterson Ferreira da Silva (ESG-Brasília), Dr. Roberto Gallo (ABIMDE) e Prof. Dr. Eduardo Munhoz Svartman (ABDE).&lt;/strong&gt; &lt;br&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/3FKL8urLGfg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

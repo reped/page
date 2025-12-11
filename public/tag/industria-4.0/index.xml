@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Indústria 4.0 | REPED</title>
+    <link>http://reped.com.br/tag/industria-4.0/</link>
+      <atom:link href="http://reped.com.br/tag/industria-4.0/index.xml" rel="self" type="application/rss+xml" />
+    <description>Indústria 4.0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <title>Indústria 4.0</title>
+      <link>http://reped.com.br/tag/industria-4.0/</link>
+    </image>
+    
+    <item>
+      <title>A crise sanitária da Covid-19 e a vulnerabilidade produtiva e tecnológica do Complexo Econômico-Industrial da Saúde no Brasil no contexto da financeirização</title>
+      <link>http://reped.com.br/publication/2021artigo_sarti_hiratuka/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/publication/2021artigo_sarti_hiratuka/</guid>
+      <description>
+
+
+&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+#blockquote {
+#    padding: 10px 20px;
+#    margin: 0 0 20px;
+#    font-size: 14px;
+#    border-left: 5px solid #ffd700;
+#}
+
+
+&lt;/style&gt;
+&lt;p&gt;Acesse a revista &lt;a href=&#34;http://www.cadernosdodesenvolvimento.org.br/ojs-2.4.8/index.php/cdes/article/view/554&#34;&gt;Cadernos do Desenvolvimento&lt;/a&gt; para mais informações.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

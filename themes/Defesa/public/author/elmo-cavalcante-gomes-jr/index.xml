@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elmo Cavalcante Gomes Jr | REPED</title>
+    <link>https://prodefesa.netlify.app/author/elmo-cavalcante-gomes-jr/</link>
+      <atom:link href="https://prodefesa.netlify.app/author/elmo-cavalcante-gomes-jr/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elmo Cavalcante Gomes Jr</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://prodefesa.netlify.app/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <title>Elmo Cavalcante Gomes Jr</title>
+      <link>https://prodefesa.netlify.app/author/elmo-cavalcante-gomes-jr/</link>
+    </image>
+    
+    <item>
+      <title>Clustering and Repercussions in Maritime Studies</title>
+      <link>https://prodefesa.netlify.app/publication/2021caplivro_moreira_medeiros/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://prodefesa.netlify.app/publication/2021caplivro_moreira_medeiros/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+
+--&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+ 
+
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 18px;
+    border-left: 5px solid #c7b388;
+}
+
+&lt;/style&gt; 
+&lt;!--
+Acesse [](https://www.researchgate.net/publication/356616079_Clustering_and_Repercussions_in_Maritime_Studies) para mais informações.
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

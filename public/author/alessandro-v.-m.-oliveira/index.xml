@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alessandro V. M. Oliveira | REPED</title>
+    <link>http://reped.com.br/author/alessandro-v.-m.-oliveira/</link>
+      <atom:link href="http://reped.com.br/author/alessandro-v.-m.-oliveira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alessandro V. M. Oliveira</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <title>Alessandro V. M. Oliveira</title>
+      <link>http://reped.com.br/author/alessandro-v.-m.-oliveira/</link>
+    </image>
+    
+    <item>
+      <title>An empirical model of fleet modernization: On the relationship between market concentration and innovation adoption by airlines</title>
+      <link>http://reped.com.br/publication/2022artigo_oliveira_caliari_narcizo/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/publication/2022artigo_oliveira_caliari_narcizo/</guid>
+      <description>
+
+
+&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+#blockquote {
+#    padding: 10px 20px;
+#    margin: 0 0 20px;
+#    font-size: 14px;
+#    border-left: 5px solid #ffd700;
+#}
+
+
+&lt;/style&gt;
+&lt;p&gt;Acesse a revista &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S2210539521000870&#34;&gt;&lt;em&gt;Research in Transportation Business &amp;amp; Management&lt;/em&gt;&lt;/a&gt; para mais informações.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Estimating fuel-efficiency while accounting for dynamic fleet management. Testing the effects of fuel price signals and fleet rollover</title>
+      <link>http://reped.com.br/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/publication/2021artigo_oliveira_narcizo_caliari_moralez_prado/</guid>
+      <description>
+
+
+&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+#blockquote {
+#    padding: 10px 20px;
+#    margin: 0 0 20px;
+#    font-size: 14px;
+#    border-left: 5px solid #ffd700;
+#}
+
+
+&lt;/style&gt;
+&lt;p&gt;Acesse a revista &lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S1361920921001231&#34;&gt;&lt;em&gt;Transportation Research Part D – Transport and Environment&lt;/em&gt;&lt;/a&gt; para mais informações.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

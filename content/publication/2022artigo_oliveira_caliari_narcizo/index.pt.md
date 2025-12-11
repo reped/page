@@ -1,0 +1,79 @@
+---
+title: 'An empirical model of fleet modernization: On the relationship between market concentration and innovation adoption by airlines'
+#author: 
+date: '2022-06-01'
+slug: 
+categories: []
+tags: [Innovation adoption, Airlines, Aircraft manufacturers, LASSO, Model averaging]
+authors: 
+  - Alessandro V. M. Oliveira
+  - caliari
+  - Rodolfo R. Narcizo
+author_notes:
+  - ''
+  - 'ITA'
+  - ''   
+doi: 'https://doi.org/10.1016/j.rtbm.2021.100704'
+publishDate: '2022-06-01'
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types:
+  - '2'
+publication: '*Research in Transportation Business & Management*'
+publication_short: ''
+abstract: 'The modernization of an airline’s fleet can reduce its operating costs, improve the perceived quality of service offered to passengers, and mitigate emissions. The present paper investigates the market incentives that airlines have to adopt technological innovation from manufacturers by acquiring new generation aircraft. We develop an econometric model of fleet modernization in the Brazilian commercial aviation over two decades. We examine the hypothesis of an inverted-U relationship between market concentration and fleet modernization and find evidence that both the extremes of competition and concentration may inhibit innovation adoption by carriers. We find limited evidence associating either hubbing activity or low-cost carriers with the more intense introduction of new types of aircraft models and variants in the industry. Finally, our results suggest that energy cost rises may provoke boosts in fleet modernization in the long term, with carriers possibly targeting more eco-efficient operations up to 2 years after an upsurge in fuel price.'
+summary: ''
+featured: no
+url_pdf: 
+url_code: ~
+url_dataset: ~
+url_poster: ~
+url_project: ~
+url_slides: ~
+url_source: ~
+url_video: ~
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+slides: ''
+---
+
+
+<style type="text/css">
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+#blockquote {
+#    padding: 10px 20px;
+#    margin: 0 0 20px;
+#    font-size: 14px;
+#    border-left: 5px solid #ffd700;
+#}
+
+
+</style>
+
+Acesse a revista [*Research in Transportation Business & Management*](https://www.sciencedirect.com/science/article/abs/pii/S2210539521000870) para mais informações.

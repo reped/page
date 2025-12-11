@@ -1,0 +1,77 @@
+---
+title: 'Brazilian Industrial Defense Base Profile'
+#author: 
+date: '2020-11-08'
+slug: 
+categories: []
+tags: []
+authors: 
+  - Ariela Leske 
+  - Thauan Santos 
+author_notes:
+  - 'EGN'
+  - 'EGN'  
+doi: ''
+publishDate: '2020-11-08T14:23:10-03:00'
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types:
+  - '2'
+publication: '*Revista Carta Internacional*'
+publication_short: ''
+abstract: 'Este artigo tem como objetivo apresentar uma visão geral e uma análise da base industrial de defesa (BID) brasileira. Com base no Mapeamento da Base de Defesa Industrial Brasileira e em seus oito segmentos (ABDI-IPEA, 2016), nossa principal contribuição é fornecer a primeira análise nacional e comparativa entre esses setores, uma vez que há um desconhecimento na literatura sobre o cenário das empresas brasileiras relacionadas à defesa. Com foco na análise da inserção internacional dessas empresas na indústria global por meio do comércio internacional, analisamos empresas relacionadas à defesa com base em (i) pessoal e salários médios; (ii) perfil inovador e de investimento; (iii) participação na exportação; (iv) principais países de destino; (v) intensidade tecnológica dos produtos exportados; (vi) principais obstáculos ao buscar mercados externos; e (vii) principais instrumentos de apoio à exportação. Apesar das limitações em termos de dados, dentre as principais conclusões destacam-se que cada segmento tem um perfil específico, enfrenta e responde diferentemente às barreiras de mercado e, em geral, seu perfil inovador ainda está focado em processos, o que pode limitar a competitividade das empresas.'
+summary: ''
+featured: no
+url_pdf: 
+url_code: ~
+url_dataset: ~
+url_poster: ~
+url_project: ~
+url_slides: ~
+url_source: ~
+url_video: ~
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+slides: ''
+---
+
+
+<style type="text/css">
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+#blockquote {
+#    padding: 10px 20px;
+#    margin: 0 0 20px;
+#    font-size: 14px;
+#    border-left: 5px solid #ffd700;
+#}
+
+
+</style>
+
+Acesse a [Revista Carta Internacional](https://www.cartainternacional.abri.org.br/Carta/article/view/1054) para mais informações.

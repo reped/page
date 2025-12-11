@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://reped.com.br/sitemap.xml

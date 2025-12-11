@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francisco das Chagas Lemos Júnior | REPED</title>
+    <link>http://reped.com.br/author/francisco-das-chagas-lemos-junior/</link>
+      <atom:link href="http://reped.com.br/author/francisco-das-chagas-lemos-junior/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francisco das Chagas Lemos Júnior</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Wed, 17 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://reped.com.br/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <title>Francisco das Chagas Lemos Júnior</title>
+      <link>http://reped.com.br/author/francisco-das-chagas-lemos-junior/</link>
+    </image>
+    
+    <item>
+      <title>Os desafios da mentalidade conjunta e das relações interagências no Brasil: contribuições das operações Ágata</title>
+      <link>http://reped.com.br/publication/2024artigo_junior_silva_santos/</link>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://reped.com.br/publication/2024artigo_junior_silva_santos/</guid>
+      <description>&lt;!--
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+
+--&gt;
+&lt;style type=&#34;text/css&#34;&gt;
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+ 
+
+
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 18px;
+    border-left: 5px solid #c7b388;
+}
+
+&lt;/style&gt; 
+&lt;p&gt;Acesse a &lt;a href=&#34;https://revista.esg.br/index.php/revistadaesg/article/view/1305&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Revista da Escola Superior de Guerra&lt;/a&gt; para mais informações.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,77 @@
+---
+title: 'Avaliação da estratégia de construção naval canadense no período 2010-2019'
+#author: 
+date: '2021-02-14'
+slug: 
+categories: []
+tags: []
+authors: 
+  - Jéssica Pires Barbosa Barreto
+  - Thauan Santos
+author_notes:
+  - 'EGN'
+  - 'EGN'    
+doi: ''
+publishDate: '2021-02-14'
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types:
+  - '2'
+publication: '*Interfaces Brasil/Canadá*'
+publication_short: ''
+abstract: 'Após grandes cortes na pasta de defesa nos anos 1990, o Canadá se deparou com um cenário de equipamentos obsoletos e redução na sua capacidade militar de atuação. Com a chegada de Stephen Harper ao poder (2006-2015), essa situação ganha uma maior atenção do governo. Assim, há diversas iniciativas no âmbito das aquisições de defesa para aprimorar a indústria nacional e capacitar as forças. Um desses projetos foi o lançamento da National Shipbuilding Strategy (2010). Com o objetivo não só de reaparelhar a marinha e a guarda costeira do país, mas também reestruturar a indústria local e garantir empregos para a sua população, essa estratégia é uma das iniciativas mais ambiciosas do governo canadense. Assim, o artigo tem como principal objetivo avaliar essa intervenção a partir de três modelos de avaliação de políticas públicas - o modelo orientado a objetivos atingidos, modelo de efeitos colaterais e o modelo orientado a Stakeholders. Para esse fim, serão usadas fontes primárias e secundárias. O resultado preliminar do estudo é positivo em relação a implementação dessa política'
+summary: ''
+featured: no
+url_pdf: 
+url_code: ~
+url_dataset: ~
+url_poster: ~
+url_project: ~
+url_slides: ~
+url_source: ~
+url_video: ~
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+slides: ''
+---
+
+
+<style type="text/css">
+
+body {text-align: justify},
+td {
+   font-size: 15px;
+}
+code.r{
+  font-size: 12px;
+}
+pre {
+  font-size: 12px
+}
+h1,h2,h3,h4,h5,h6{
+  font-size: 25px;
+}
+h2,h3,h4,h5,h6{
+  font-size: 20px;
+}
+h3,h4,h5,h6{
+  font-size: 18px;
+}
+
+
+#blockquote {
+#    padding: 10px 20px;
+#    margin: 0 0 20px;
+#    font-size: 14px;
+#    border-left: 5px solid #ffd700;
+#}
+
+
+</style>
+
+Acesse [Interfaces Brasil/Canadá](https://periodicos.ufpel.edu.br/ojs2/index.php/interfaces/article/view/19295) para mais informações.
